@@ -1,0 +1,52 @@
+/* col css */
+
+h1.ui.header.center.aligned {
+  margin-top: 3rem;
+}
+
+#page-contents {
+  margin-top: 3rem;
+}
+
+.transcript blockquote {
+  font-style: italic;
+}
+
+.transcript.lj .capital { 
+  font-weight: bold;
+  font-style: italic;
+  font-size: 3.33em;
+  line-height: 0.42em;
+ }
+
+.transcript.book2 div.indent {
+  margin-bottom: 1em;
+  margin-left: 3rem;
+}
+
+.transcript.lj img { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+.transcript.wos span.dropcaps { 
+  font-size: 4em;
+  float: left;
+  margin-top: -.2em;
+  margin-bottom: -0.3254em;
+  margin-right: .1em;
+  line-height: 1.2em;
+ }
+
+/* Timing is complete, these are no longer needed.
+a.item.__timing::after {
+  content: " 🕙";
+}
+
+a.item.__timer::after {
+  content: " 👤";
+}
+*/
+
+

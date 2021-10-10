@@ -1,0 +1,106 @@
+{
+  "bid": "book3",
+  "title": "Homo-Christus Deo",
+  "image": "/t/col/public/img/col/book1-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 24,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "Prelude",
+      "url": "/book3/prelude/"
+    },
+    {
+      "title": "1. Forty Days to the Resurrection",
+      "url": "/book3/chap01/"
+    },
+    {
+      "title": "2. Healing and Resurrection",
+      "url": "/book3/chap02/"
+    },
+    {
+      "title": "3. Trust",
+      "url": "/book3/chap03/"
+    },
+    {
+      "title": "4. Love and Form",
+      "url": "/book3/chap04/"
+    },
+    {
+      "title": "5. The Kingdom of Unity",
+      "url": "/book3/chap05/"
+    },
+    {
+      "title": "6. A Single True Love",
+      "url": "/book3/chap06/"
+    },
+    {
+      "title": "7. Love and Be Loved",
+      "url": "/book3/chap07/"
+    },
+    {
+      "title": "8. The Prayer of Truth",
+      "url": "/book3/chap08/"
+    },
+    {
+      "title": "9. The Truth In You",
+      "url": "/book3/chap09/"
+    },
+    {
+      "title": "10. Surrender",
+      "url": "/book3/chap10/"
+    },
+    {
+      "title": "11. The Last Rebellion",
+      "url": "/book3/chap11/"
+    },
+    {
+      "title": "12. You Are God In God",
+      "url": "/book3/chap12/"
+    },
+    {
+      "title": "13. Autonomy and Freedom",
+      "url": "/book3/chap13/"
+    },
+    {
+      "title": "14. The Heart of Christ",
+      "url": "/book3/chap14/"
+    },
+    {
+      "title": "15. Be Not Afraid",
+      "url": "/book3/chap15/"
+    },
+    {
+      "title": "16. Unconditional Acceptance",
+      "url": "/book3/chap16/"
+    },
+    {
+      "title": "17. The Father and I Are One",
+      "url": "/book3/chap17/"
+    },
+    {
+      "title": "18. Silence, Mystery, God",
+      "url": "/book3/chap18/"
+    },
+    {
+      "title": "19. A Prophet Has Been Born",
+      "url": "/book3/chap19/"
+    },
+    {
+      "title": "20. A New Consciousness",
+      "url": "/book3/chap20/"
+    },
+    {
+      "title": "21. Union and Resurrection",
+      "url": "/book3/chap21/"
+    },
+    {
+      "title": "Final Words",
+      "url": "/book3/final/"
+    },
+    {
+      "title": "A Mystical Relationship",
+      "url": "/book3/clarifications/"
+    }
+  ]
+}

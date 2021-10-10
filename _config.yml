@@ -1,0 +1,100 @@
+# CMI
+
+sourceId: 18
+environment: standalone
+
+cmiTitle: "Teachings of Christ Mind"
+siteName: "Library of Christ Mind Teachings"
+
+# Setup
+title:        'Choose Only Love'
+description:  'A channeled work'
+url:          'https://www.christmind.info/t/ftcm'
+baseurl:      ''
+keywords:     "Jesus, Jeshua, Channeled Material"
+home:         "/"
+port:         9917
+
+# About/contact
+author:
+  name:              Rick Mercer
+  url:               https://twitter.com/rmercer33
+  email:             rmercer33@gmail.com
+
+fb-appId:     448658485318107
+semantic:     fui286
+#semantic:     sui231
+#semantic:     sui241
+src-url:      'https://www.christmind.info/t/ftcm'
+
+# Permalinks
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+# Collections for transcripts
+collections:
+  acq:
+    output: true
+    title: Get Acquainted
+  book1:
+    output: true
+    title: "Book 1: Echoes of Holiness"
+  book2:
+    output: true
+    title: "Book 2: Let Yourself Be Loved"
+
+defaults:
+
+  - scope:
+      path: ""
+      type: acq
+    values:
+      layout: transcript
+      book: "Get Acquainted"
+      image: "/t/pwom/public/img/wom/acq-big.jpg"
+      image-width: 612
+      image-height: 792
+      bid: "acq"
+      audio: false
+      pnumToggle: false
+
+  - scope:
+      path: ""
+      type: book1
+    values:
+      layout: transcript
+      book: "From the Christ Mind"
+      publisher: "From the Christ Mind"
+      image: "/t/pwom/public/img/wom/tjl-big.jpg"
+      big-separator: "/t/pwom/public/img/wom/big.jpg"
+      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image-width: 612
+      image-height: 877
+      bid: "book1"
+      audio: false
+
+  - scope:
+      path: ""
+      type: book2
+    values:
+      layout: transcript
+      book: "Let Yourself Be Loved"
+      publisher: "Choose Only Love"
+      image: "/t/pwom/public/img/wom/tjl-big.jpg"
+      big-separator: "/t/pwom/public/img/wom/big.jpg"
+      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image-width: 612
+      image-height: 877
+      bid: "book2"
+      audio: false
+
+exclude: [
+  bin, moved.html, deploy, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
+]
+

@@ -1,0 +1,70 @@
+{
+  "bid": "book1",
+  "title": "From the Christ Mind",
+  "image": "/t/ftcm/public/img/ftcm/book1-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 15,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "Dedication",
+      "url": "/t/ftcm/book1/dedication/"
+    },
+    {
+      "title": "Foreword",
+      "url": "/t/ftcm/book1/foreword/"
+    },
+    {
+      "title": "1. Truth Returns",
+      "url": "/t/ftcm/book1/chap01/"
+    },
+    {
+      "title": "2. The Arrival of Truth",
+      "url": "/t/ftcm/book1/chap02/"
+    },
+    {
+      "title": "3. The End of Time",
+      "url": "/t/ftcm/book1/chap03/"
+    },
+    {
+      "title": "4. Beginning Again",
+      "url": "/t/ftcm/book1/chap04/"
+    },
+    {
+      "title": "5. The Rise of Truth",
+      "url": "/t/ftcm/book1/chap05/"
+    },
+    {
+      "title": "6. The Pursuit of Truth",
+      "url": "/t/ftcm/book1/chap06/"
+    },
+    {
+      "title": "7. The Time of Change",
+      "url": "/t/ftcm/book1/chap07/"
+    },
+    {
+      "title": "8. Love",
+      "url": "/t/ftcm/book1/chap08/"
+    },
+    {
+      "title": "9. The Way Back",
+      "url": "/t/ftcm/book1/chap09/"
+    },
+    {
+      "title": "10. The Return of Wholeness",
+      "url": "/t/ftcm/book1/chap10/"
+    },
+    {
+      "title": "11. Truth and Freedom",
+      "url": "/t/ftcm/book1/chap11/"
+    },
+    {
+      "title": "12. The Peace of God",
+      "url": "/t/ftcm/book1/chap12/"
+    },
+    {
+      "title": "Epilogue",
+      "url": "/t/ftcm/book1/epilog/"
+    }
+  ]
+}

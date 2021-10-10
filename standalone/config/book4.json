@@ -1,0 +1,114 @@
+{
+  "bid": "book4",
+  "title": "Wisdom",
+  "image": "/t/col/public/img/col/book4-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 26,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "How It Originated",
+      "url": "/book4/origin/"
+    },
+    {
+      "title": "A Description of the Manifestations",
+      "url": "/book4/description/"
+    },
+    {
+      "title": "Prelude",
+      "url": "/book4/prelude/"
+    },
+    {
+      "title": "1. The All in All",
+      "url": "/book4/chap01/"
+    },
+    {
+      "title": "2. The Bosom of God",
+      "url": "/book4/chap02/"
+    },
+    {
+      "title": "3. The Dream of God",
+      "url": "/book4/chap03/"
+    },
+    {
+      "title": "4. Love without Conditions",
+      "url": "/book4/chap04/"
+    },
+    {
+      "title": "5. The Abode of Knowledge",
+      "url": "/book4/chap05/"
+    },
+    {
+      "title": "6. The Tree of Life",
+      "url": "/book4/chap06/"
+    },
+    {
+      "title": "7. A New World is Born",
+      "url": "/book4/chap07/"
+    },
+    {
+      "title": "8. My Beloved Christ",
+      "url": "/book4/chap08/"
+    },
+    {
+      "title": "9. The Cloud of Unknowing",
+      "url": "/book4/chap09/"
+    },
+    {
+      "title": "10. Wisdom: The Gift of Love",
+      "url": "/book4/chap10/"
+    },
+    {
+      "title": "11. Receptivity",
+      "url": "/book4/chap11/"
+    },
+    {
+      "title": "12. The Relationship",
+      "url": "/book4/chap12/"
+    },
+    {
+      "title": "13. Giving Form to Love",
+      "url": "/book4/chap13/"
+    },
+    {
+      "title": "14. The End of Words",
+      "url": "/book4/chap14/"
+    },
+    {
+      "title": "15. Harvest Time",
+      "url": "/book4/chap15/"
+    },
+    {
+      "title": "16. A New Beginning",
+      "url": "/book4/chap16/"
+    },
+    {
+      "title": "17. The Power of Silence",
+      "url": "/book4/chap17/"
+    },
+    {
+      "title": "18. Alchemy",
+      "url": "/book4/chap18/"
+    },
+    {
+      "title": "19. The Wisdom of the Self",
+      "url": "/book4/chap19/"
+    },
+    {
+      "title": "20. The Plain",
+      "url": "/book4/chap20/"
+    },
+    {
+      "title": "21. The Power of God in You",
+      "url": "/book4/chap21/"
+    },
+    {
+      "title": "Final Words",
+      "url": "/book4/final/"
+    },
+    {
+      "title": "A Mystical Relationship",
+      "url": "/book4/clarifications/"
+    }
+  ]
+}

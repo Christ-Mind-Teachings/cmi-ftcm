@@ -1,0 +1,78 @@
+{
+  "bid": "book2",
+  "title": "From the Christ Mind, Book II",
+  "image": "/t/ftcm/public/img/ftcm/book2-toc.jpg",
+  "toc": "relaxed",
+  "totalPages": 17,
+  "note": "Make sure url's begin and end with '/'",
+  "contents": [
+    {
+      "title": "Foreword",
+      "url": "/t/ftcm/book2/foreword/"
+    },
+    {
+      "title": "1. Salvation",
+      "url": "/t/ftcm/book2/chap01/"
+    },
+    {
+      "title": "2. What You Desire",
+      "url": "/t/ftcm/book2/chap02/"
+    },
+    {
+      "title": "3. The Gifts of God",
+      "url": "/t/ftcm/book2/chap03/"
+    },
+    {
+      "title": "4. Decision Making",
+      "url": "/t/ftcm/book2/chap04/"
+    },
+    {
+      "title": "5. Love and Peace",
+      "url": "/t/ftcm/book2/chap05/"
+    },
+    {
+      "title": "6. Remember Your Father",
+      "url": "/t/ftcm/book2/chap06/"
+    },
+    {
+      "title": "7. Purpose and the Ego",
+      "url": "/t/ftcm/book2/chap07/"
+    },
+    {
+      "title": "8. The Holy Instant",
+      "url": "/t/ftcm/book2/chap08/"
+    },
+    {
+      "title": "9. Time and Purpose",
+      "url": "/t/ftcm/book2/chap09/"
+    },
+    {
+      "title": "10. You Are Not Alone",
+      "url": "/t/ftcm/book2/chap10/"
+    },
+    {
+      "title": "11. God and You",
+      "url": "/t/ftcm/book2/chap11/"
+    },
+    {
+      "title": "12. Two Answers",
+      "url": "/t/ftcm/book2/chap12/"
+    },
+    {
+      "title": "13. The Way to Heaven",
+      "url": "/t/ftcm/book2/chap13/"
+    },
+    {
+      "title": "14. Light and Creation",
+      "url": "/t/ftcm/book2/chap14/"
+    },
+    {
+      "title": "15. Lessons",
+      "url": "/t/ftcm/book2/chap15/"
+    },
+    {
+      "title": "Epilogue",
+      "url": "/t/ftcm/book2/epilog/"
+    }
+  ]
+}

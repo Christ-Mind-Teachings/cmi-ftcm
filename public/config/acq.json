@@ -1,0 +1,17 @@
+{
+  "bid": "acq",
+  "title": "Get Acquainted",
+  "image": "/t/ftcm/public/img/ftcm/acq-toc.jpg",
+  "toc": "relaxed ordered",
+  "totalPages": 2,
+  "contents": [
+    {
+      "title": "About From the Christ Mind",
+      "url": "/t/ftcm/acq/about/"
+    },
+    {
+      "title": "Available on Amazon",
+      "url": "/t/ftcm/acq/amazon/"
+    }
+  ]
+}

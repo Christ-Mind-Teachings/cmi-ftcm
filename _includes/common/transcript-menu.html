@@ -1,0 +1,92 @@
+<!-- _includes/common/transcript-menu.html -->
+<div class="ui borderless main menu">
+  <div id="transcript-menu" class="ui text container">
+    <a id="bookmark-dropdown-menu" href="#" class="requires-signin hide ui dropdown item">
+      <span data-xposition="left center" data-xtooltip="Show/Set Bookmarks">
+        <i class="icons">
+          <i class="bookmark-icon green bookmark icon"></i>
+          <i class="bookmark-corner-icon hide corner close icon"></i>
+        </i>
+      </span>
+      <div class="menu">
+        <div id="bookmark-modal-open" class="bookmark-modal-open item">{{site.data.lang.tmenu.t1}}</div>
+        <div id="bookmark-toggle-disable-selection" class="toggle-bookmark-selection item">{{site.data.lang.tmenu.t2}}</div>
+        <div id="bookmark-toggle-highlight" class="toggle-bookmark-highlight item">{{site.data.lang.tmenu.t3}}</div>
+        <div id="bookmark-filter-wrapper" class="hide">
+          <div class="divider"></div>
+          <div id="current-topic-filter" data-filter="none" class="item header">Topic Filter: None</div>
+          <div id="page-topics-modal-open" class="page-topics-modal-open item">Filter Bookmarks</div>
+        </div>
+      </div>
+    </a>
+    <a href="#" id="search-modal-open" class="item search-modal-open">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.menu.m2}} {{site.title}}">
+        <i class="search icon"></i>
+      </span>
+    </a>
+    <a id="audio-player-menu-option" class="audio-player-toggle hide item" >
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t6}}">
+        <i class="volume up icon"></i></a>
+      </span>
+    </a>
+    {% unless page.pnumToggle == false %}
+    <a id="pnum-toggle-menu-option" href="#" class="toggle-paragraph-markers item">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t7}}">
+        <i class="icons">
+          <i class="paragraph icon"></i>
+          <i class="paragraph-corner-icon hide corner close icon"></i>
+        </i>
+      </span>
+    </a>
+    {% endunless %}
+    <a id="jump-to-top-menu-option" href="#" class="top-of-page item">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t8}}">
+        <i class="level up icon"></i>
+      </span>
+    </a>
+    <a href="#" id="contents-modal-open" data-book="{{page.bid | downcase}}" class="item toc-modal-open">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t9}}">
+        <i class="align justify icon"></i>
+      </span>
+    </a>
+    <a id="toc-previous-page" href="#" class="previous-page item">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t10}}">
+        <i class="arrow circle left icon"></i>
+      </span>
+    </a>
+    <a id="toc-next-page" href="#" class="next-page item">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.tmenu.t11}}">
+        <i class="arrow circle right icon"></i>
+      </span>
+    </a>
+    {% include common/quick-link-menu.html name="col" %}
+    <a id="about-dropdown-menu" href="#" class="ui dropdown item">
+      <i class="question icon"></i>
+      <div id="help-menu" class="menu">
+        <div id="transcript-page-info" class="header"></div>
+        <div class="divider"></div>
+       <div class="transcript-tour item">{{site.data.lang.menu.m5}}</div>
+        <div class="read-documentation item">{{site.data.lang.menu.m6}}</div>
+        <div class="view-documentation item">{{site.data.lang.menu.m7}}</div>
+        <div class="copy-page-key item">{{site.data.lang.tmenu.t12}}</div>
+        <div class="contact-me item">{{site.data.lang.menu.m8}}</div>
+      </div>
+    </a>
+    <a id="login-guest-menu-option" href="#" class="login-menu-option-guest ui right floated item">
+      <span data-position="bottom center" data-tooltip="{{site.data.lang.menu.m11}}">
+        <i class="red sign in icon"></i>
+      </span>
+    </a>
+    <a id="login-account-menu-option" href="#" class="login-menu-option-account hide dropdown ui right floated item">
+      <span data-position="left center" data-tooltip="{{site.data.lang.menu.m12}}">
+        <i class="green sign out icon"></i>
+      </span>
+      <div class="menu">
+        <div class="account-signout-option item">{{site.data.lang.menu.m12}}</div>
+        <div class="divider"></div>
+        <div class="profile-management item">{{site.data.lang.menu.m9}}</div>
+        <div class="topic-management item">{{site.data.lang.menu.m10}}</div>
+      </div>
+    </a>
+  </div>
+</div>

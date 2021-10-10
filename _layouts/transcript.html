@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+  <meta name="description" content="{{description}}">
+
+  <!-- Site Properties -->
+  <title>{{site.title}}:{{page.title}}</title>
+
+  {% include common/load-open-graph.html %}
+
+  {% if site.environment == "standalone" %}
+    {% include common/transcript-css.html type="standalone" %}
+  {% else %}
+    {% include common/transcript-css.html type="integration" %}
+  {% endif %}
+  {% include favicon/cmi.html %}
+
+</head>
+<body sourceId="{{site.sourceId}}">
+  {% include common/masthead.html %}
+  {% include common/transcript-menu.html %}
+
+  <div id="transcript-page-loading" class="ui dimmer">
+    <div class="ui text loader">
+      {{site.siteName}}<br/>
+      {{site.title}}<br/><br/>
+      {{site.data.lang.share.s4}}&hellip;
+    </div>
+  </div>
+
+  {% if page.bid %}
+  <div class="{{page.bid | downcase }} transcript ui text container hide-pnum">
+  {% else %}
+  <div class="transcript ui text container">
+  {% endif %}
+    {% if page.ref %}
+    <h1 class="ui header center aligned">
+      {{page.ref}}.
+      <hr/>
+    </h1>
+    {% endif %}
+    <h2 class="ui header center aligned">
+      {{page.title}}
+
+      {% if page.subtitle %}
+        <div class="sub header">
+          <br/>
+          <em>{{page.subtitle}}</em>
+        </div>
+      {% endif %}
+    </h2>
+    {{ content }}
+  </div>
+
+  {% if page.footer.display == true %}
+    <div class="ui section divider"></div>
+    {% include common/footer.html %}
+  {% endif %}
+
+  {% include components/toc-modal.html %}
+  {% include components/notes-modal.html %}
+  {% if page.search != false %}
+    <!-- include search support -->
+    {% include components/search-modal.html %}
+    {% include components/search-navigator.html %}
+  {% endif %}
+  {% if page.audio != false %}
+    <!-- include audio support -->
+    {% include components/audio-player.html %}
+    {% include components/timecapture-modal.html %}
+    {% include components/time-edit-modal.html %}
+  {% endif %}
+  {% if page.bookmark != false %}
+    <!-- include bookmark support -->
+    {% include components/bookmark-modal.html %}
+    {% include components/page-topics-modal.html %}
+    {% include components/bookmark-navigator.html %}
+    {% include components/annotation-popup.html %}
+    {% include components/email-share-dialog.html %}
+  {% endif %}
+  <div class="fixed" id="netlify-modal"></div>
+  {% include common/javascript.html %}
+  {% if site.environment == "standalone" %}
+    {% include common/transcript-js.html type="standalone" %}
+  {% else %}
+    {% include common/transcript-js.html type="integration" %}
+  {% endif %}
+</body>
+
+</html>
