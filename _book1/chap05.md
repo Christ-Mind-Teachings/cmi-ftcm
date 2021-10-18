@@ -1,109 +1,140 @@
 ---
-ref: "5"
-title: "A Light in the Darkness"
-subtitle: "A message from the Voice of Christ through a Choir of Angels in the presence of Archangel Raphael and Archangel Gabriel"
+ref: "Chapter Five"
+title: "The Rise of Truth"
 ---
 
-## I. United in a Chain of Light
+Whenever you are not happy, not joyful, it is because you have decided not to
+be. This is not a conscious decision to not be happy, but is rather a choosing
+of thoughts and feelings that make happiness impossible. If you seek for
+happiness where it cannot be found, you will not be happy. You need not search
+for happiness, it is not here among the things of this world. Like all that is
+true, happiness simply is. To be truly happy is to be happy for no reason.
+Being not of this world, happiness does not depend on conditions or
+circumstances. You need only decide to be as you truly are and happiness will
+rush to greet you. The Holy Spirit will guide you in the ways of happiness, for
+He needs you to be a happy learner. There is no need for unhappiness in your
+mind. You have suffered long enough, and to be weakened and distracted by
+unhappiness will reduce your ability to learn.
 
-Beloved daughters and sons of God! Thank you for allowing we who are the light
-of the world to dwell among you when you abide in the presence of love. Thank
-you for listening to our voice that is the voice of the many. We have come from
-the Kingdom of love that is God to spend this time of wisdom and love together
-with you. Today we have come to speak of true union. We are expressions of
-discernment that shine on the world. We are a single mind. We are a single
-heart. United we are the Heaven of the world. We are the living Christ.
+Whatever you want to learn is what you will learn. Great is the learning
+ability of God’s Son, and given the motivation to learn what is true, much can
+be accomplished. The only thing that imposes limits on your learning is the
+degree of willingness you bring to the process. The more value you see in what
+you are learning, the greater the willingness to learn it. Truth is totally
+valuable. In fact, Its value cannot be described in words, because It is
+immeasurable, being far beyond the mind of separation and its concepts. All
+learning that is of this world is, in comparison, valueless. 
 
-Thank you for answering the call of love. Thank you for your deliberate
-willingness to remember the holy, the beautiful, and the perfect, and thereby
-to allow divine memory to enlighten your minds and the whole world. The
-benefits of these dialogues are immeasurable. Every mind benefits from them
-because this light shines everywhere. It shines in your mind and reflects a
-gleam seen by all minds of all times and places, even by minds that are not in
-this dimension of time. In this way your enlightened mind acts as a beacon in
-the midst of darkness that points the way home. You who have already reached
-the shores of the Kingdom and have left behind forever the turbulent sea, are
-now a beacon of light, a lighthouse that guides boats that sail in the night.
-There are no more steps to be taken. No more are necessary.
+The function of the Holy Spirit is to arouse in you the desire for Truth. He
+holds this desire for you until you are ready; then He delivers it to you, to
+become a part of your mind. The call for Truth will exert an irresistible
+attraction on your mind, if you will let it. The ego counters this call by
+obscuring it, by drowning it out with a constant stream of thoughts and
+impulses. By keeping you constantly busy responding to internal and external
+stimulation, there is no place in your mind where the call of Truth can be
+received. You have forgotten Truth so long ago, even Its memory is no longer
+accessible to you without help. The Holy Spirit is the call to awaken, to
+return to the Kingdom. He is a part of your Higher Mind, and He holds for you
+the memory of all that is good and true.  
 
-Now we are the presence of love. We are the illuminating beacon. Now is the
-time for our light to lead those who, with us, will enter the inner abode of
-the Heart of God, the abode of light.
+## The Ego as Belief
+{: .ui.header.center.aligned}
 
-From now until the end of time our light will attract others as if it were a
-beautiful melody slowly being remembered, attracting others by its beauty and
-harmony. Our melodies will be melodies of light, songs of love. Shining
-forth, we enjoy serving the cause and effect of love. In this way we guide, as
-we have been guided here, by the many that in love and truth have helped us.
-Now we are a beacon of light that does nothing, goes nowhere, just shines in
-the midst of darkness. We simply extend light by remaining motionless,
-sovereign, the presence of light, the presence of love.
+Whatever arises in your mind as thought or feeling comes from one of two
+sources: the ego or the Holy Spirit. There are no others. The ego speaks to you
+through a constant stream of thoughts, feelings, and impulses, whose purpose is
+to dominate the conscious mind, control its attention faculty, and keep it busy
+reacting to and acting out egoic content. The conscious mind is a kind of
+receptor, or receptive level of awareness, that receives impulses from the
+unconscious and acts upon them. Action or behavior follows thought, which is
+why your thought system is so important. Virtually all behavior and perception
+are determined by your thinking. Whenever you act upon thoughts and impulses
+received from the egoic levels of the unconscious, you are responding
+mechanically, automatically, uncreatively. 
 
-Children of eternal light, you must bear in mind that we are all part of a
-chain of atonement that is perfect love, guiding and being guided as one,
-giving and receiving as one. You are guided no longer by an external source but
-by the light shining within and everywhere, guided by the wisdom that comes
-from the fullness of heart, a mind and heart united in the fullness of love.
-United in this union of light we become conscious of the unity that we truly
-are.
+This is the nature of the ego: a static core that is the belief in separation,
+and a set of repetitive, habitual patterns of thought, feeling, and behavior.
+The ego is unloving, having been made in fear and as a response to fear. All it
+can ever offer you is the continuation of that moment of fear and separation in
+which it originated. Love is not a part of its repertoire, although the ego
+will never allow that to be revealed. This must be kept hidden along with the
+malice it bears towards you, for it regards you as guilty, and deserving of
+punishment and death. This will never change for the ego itself is beyond
+redemption, being the denial of redemption and the constant attack upon it. 
 
-We let God’s wisdom be the source of our knowledge and work. Now we find our
-guide in the wisdom of the heart. We recognize that we are both the guidance
-and the guided. We guide as we are guided. Giving and receiving are one. Cause
-and effect are one. Guiding and being guided are one.
+There is only one way to respond to the ego sanely: to withdraw your allegiance
+and identification with it. The ego is not you, although it would have you
+believe that it is. The ego does not have your best interest as its purpose,
+and in fact, just the opposite is true, although this is disguised and kept
+from your awareness, or you would renounce the ego immediately. 
 
-## II. Acceptance and Unity
+The ego is the belief you are separate from your Creator and your Self, and are
+a bodily identity in a world of form. Thus is it a belief about yourself, about
+reality; and the ego’s thought system is the crystallization and expression of
+that belief in many different ways. The ego is in your mind, a part of your
+mind, and through the act of forgetting, is experienced as you. This was a
+profound error of identification, and you have suffered from it ever since. 
 
-Daughters and sons of light shining in darkness! Headlights of love! Once
-again we want to remind you of what you already know. You cannot remember who
-you truly are and live in harmony with this truth if you do not recognize and
-accept that you are both the guided and the guiding. You are the beacon, the
-light that illuminates all. This is the same as saying: To unite is to love,
-and to love is to unite. To remain in the presence of love is to remain in
-unity.
+Through your identification with the ego, its seeming reality has been
+established. Because the ego identifies itself with the body, you have
+seemingly become a body, and the world of separation is made real to you. The
+mind believes in what it makes; and this power of belief gives the world you
+have made the effects it has on you and the limitations it seems to impose. The
+world could have no effect on you at all, if you did not assign to it the power
+to do so. You can withdraw that power at any time, but first you must recognize
+your responsibility for the world and everything in it. Your mind is cause, and
+what you see and experience is its effect. 
 
-You are a union. It cannot be otherwise because what is not integrated cannot
-remain. Every divided Kingdom succumbs. You would succumb if not united in
-integrity with the self. To you who hear our voice of love, this is the voice
-of your true consciousness, the consciousness of Christ. We remind you that you
-are a complete self. You are the I am of God. You are undivided beauty.
-Imagine a divided beauty. Would divided beauty be possible? Obviously not. The
-same goes for the self.
+## Change Your Mind
+{: .ui.header.center.aligned}
 
-There cannot really be such a thing as a fragmented self or soul. There can be
-no separation in any way. It can only exist as in wholeness. Being a fragmented
-self means being less than a whole self, and a self that is less than itself is
-inconceivable. In other words, either you are or you are not. There are no
-degrees of being, just as there are no degrees of truth or degrees of love. It
-is true or it is not true. It is love or it is not love. You are your true self
-or you are nothing. If you do not live in the truth of what you truly are, you
-will not be able to enlighten the world. If you do not accept your holiness as
-the truth of what you are and what everything is, you cannot be happy. If you
-do not peacefully accept that each of you are creators of your own
-experience, you cannot live in truth.
+You can change your mind about the world’s purpose, accepting the Holy Spirit’s
+purpose in place of the one you have given it. To do so is necessary if you
+would free yourself from its effects, and allow miracles to enter your life.
+Accept the Holy Spirit’s purpose for everything in your life, and allow Him to
+assign meaning and use everything that happens for your awakening. To listen to
+Him is to bring the present alive in your mind, giving you the freedom to
+choose outside the narrow limits established by the ego. 
 
-Sisters and brothers in Christ, accepting the truth about yourself is accepting
-all that you are here, now, and always— including your circumstances. This
-means, of course, lovingly accepting who your sisters and brothers are in
-Christ. And lovingly accepting every circumstance in every moment of existence.
-This means embracing everything that comes up inside you, making you one with
-everything. It also means that every- thing you perceive as external to you
-must be embraced by the love that you are. This was impossible to do completely
-before the ego was gone. Now we live a new time. You are a new self.  Now
-anything that comes near to you will be but boats that sail in darkness,
-approaching you to meet the presence of love. They are no longer the old ghosts
-that frightened the sons and daugh- ters of God when they were identified with
-the ego. That is over. It will never come back.
+To choose with the ego as your guide is to choose nothingness. Yet that
+nothingness will be experienced as real, bringing fear, conflict, pain, and
+suffering in its wake. As long as you think illusion is a real choice, so long
+will you languish in your earthly prison. 
 
-From now on, those who come to you—and this includes every circumstance—are
-nothing other than those parts of your self that you had separated from
-yourself. And since you will now answer with love where before you responded
-with fear, that part of you that was lost and now returns becomes one with you,
-returning your consciousness to the fullness of love that you are.
+When you have had enough of suffering and bondage, of meaninglessness, perhaps
+the desire will arise within you to find a better way to live, to find the real
+meaning and purpose of your life. The Holy Spirit waits for this desire, this
+recognition, this opening, for it is an invitation to Him to actively enter
+your life. If you allow Him to establish communication, He will begin to show
+you a new way to think, feel, perceive, and experience. He knows the way back
+to God, and the part you will play in God’s Plan of Salvation, the Atonement.
+And He will reveal the way to you, step by step, thought by thought, choice by
+choice, and guide you in everything you do, if you will let Him. 
 
-Now and forever live your life with arms wide open in an embrace of everything
-that arises. Love what you are. Love your circumstances. Love what your brother
-is and his circumstances. Love all things as they are. Let everything come. Let
-everything go. And remember, you are simply a beacon of light. You are the
-light of the world. You are light in the darkness.
+The willingness to turn your life over to God is the willingness to recognize
+you know nothing. “Except you become as little children,” means to recognize
+you do not know but your Father does, and you will trust Him to take care of
+you. Through the Holy Spirit, God’s Answer to the separation, your safety is
+assured, and you are shown the way back Home. 
+
+In God, there is no perception. He does not know of the world of separation,
+but He recognized his Son had lost communication with Him, a problem He did not
+understand for He knows only perfection. Yet He gave answer by creating the
+Holy Spirit as a link to His separated Sons that could not be broken. Thus was
+separation answered and over, once and for all.
+
+You can turn to the Holy Spirit for help with all your problems, for He has the
+solution to them all, no matter what form they take, large or small. He solves
+them all with equal ease, for there is no hierarchy of illusions, and thus no
+order of difficulty in miracles. When you ask Him for the solution, and accept
+His answer, is the problem solved. To keep a problem for yourself to solve is
+to not let it go. The ego’s solutions are not meant to solve but to disguise
+the problem, that it may reappear in another form.  
+
+The Holy Spirit answers all your problems with ease, for He has but one answer
+because you have but one problem: separation from God. This recognition is the
+answer to all problems, whatever form they may take. When this is seen clearly,
+and this understanding consistently applied, life will become simple, and the
+Light of your mind will begin to shine. The Holy Spirit gives you the answer,
+but you must accept and apply it.
 

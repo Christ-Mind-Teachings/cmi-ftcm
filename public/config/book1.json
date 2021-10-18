@@ -1,46 +1,51 @@
 {
   "bid": "book1",
   "title": "From the Christ Mind",
-  "image": "/t/ftcm/public/img/ftcm/book1-toc.jpg",
+  "image": "/t/ftcm/public/img/ftcm/book1-toc2.jpg",
   "toc": "relaxed",
-  "totalPages": 15,
+  "totalPages": 14,
   "note": "Make sure url's begin and end with '/'",
   "contents": [
     {
-      "title": "Dedication",
-      "url": "/t/ftcm/book1/dedication/"
-    },
-    {
       "title": "Foreword",
-      "url": "/t/ftcm/book1/foreword/"
+      "url": "/t/ftcm/book1/foreword/",
+      "audio": "/book1/foreword.mp3",
+      "timing": "/book1/foreword.json"
     },
     {
       "title": "1. Truth Returns",
-      "url": "/t/ftcm/book1/chap01/"
+      "url": "/t/ftcm/book1/chap01/",
+      "audio": "/book1/chap01.mp3"
     },
     {
       "title": "2. The Arrival of Truth",
-      "url": "/t/ftcm/book1/chap02/"
+      "url": "/t/ftcm/book1/chap02/",
+      "audio": "/book1/chap02.mp3"
     },
     {
       "title": "3. The End of Time",
-      "url": "/t/ftcm/book1/chap03/"
+      "url": "/t/ftcm/book1/chap03/",
+      "audio": "/book1/chap03.mp3"
     },
     {
       "title": "4. Beginning Again",
-      "url": "/t/ftcm/book1/chap04/"
+      "url": "/t/ftcm/book1/chap04/",
+      "audio": "/book1/chap04.mp3"
     },
     {
       "title": "5. The Rise of Truth",
-      "url": "/t/ftcm/book1/chap05/"
+      "url": "/t/ftcm/book1/chap05/",
+      "audio": "/book1/chap05.mp3"
     },
     {
       "title": "6. The Pursuit of Truth",
-      "url": "/t/ftcm/book1/chap06/"
+      "url": "/t/ftcm/book1/chap06/",
+      "audio": "/book1/chap06.mp3"
     },
     {
       "title": "7. The Time of Change",
-      "url": "/t/ftcm/book1/chap07/"
+      "url": "/t/ftcm/book1/chap07/",
+      "audio": "/book1/chap07.mp3"
     },
     {
       "title": "8. Love",

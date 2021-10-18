@@ -27,9 +27,9 @@ Intro
       <div class="ui card">
         <a id="book-acq" href="#" data-book="acq" animate class="toc-modal-open image">
           {% if site.environment == "standalone" %}
-            <img src="/public/img/ftcm/acq-big.jpg">
+            <img src="/public/img/ftcm/acq-big2.jpg">
           {% else %}
-            <img src="/t/ftcm/public/img/ftcm/acq-big.jpg">
+            <img src="/t/ftcm/public/img/ftcm/acq-big2.jpg">
           {% endif %}
         </a>
         <div class="content">
@@ -73,9 +73,9 @@ Intro
     <div class="card">
       <a id="book-one" href="#" data-book="book1" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
-          <img src="/public/img/ftcm/book1-big.jpg">
+          <img src="/public/img/ftcm/book1-big2.jpg">
         {% else %}
-          <img src="/t/ftcm/public/img/ftcm/book1-big.jpg">
+          <img src="/t/ftcm/public/img/ftcm/book1-big2.jpg">
         {% endif %}
       </a>
       <div class="content">
@@ -87,9 +87,9 @@ Intro
     <div class="card">
       <a id="book-two" href="#" data-book="book2" class="toc-modal-open image">
         {% if site.environment == "standalone" %}
-          <img src="/public/img/ftcm/book2-big.jpg">
+          <img src="/public/img/ftcm/book2-big2.jpg">
         {% else %}
-          <img src="/t/ftcm/public/img/ftcm/book2-big.jpg">
+          <img src="/t/ftcm/public/img/ftcm/book2-big2.jpg">
         {% endif %}
       </a>
       <div class="content">

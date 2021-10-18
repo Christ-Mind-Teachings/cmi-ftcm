@@ -38,12 +38,15 @@
   <div class="transcript ui text container">
   {% endif %}
     {% if page.ref %}
-    <h1 class="ui header center aligned">
-      {{page.ref}}.
-      <hr/>
-    </h1>
-    {% endif %}
     <h2 class="ui header center aligned">
+      {{page.ref}}
+      <hr/>
+    </h2>
+    {% endif %}
+    {% if page.hideTitle %}
+    <!-- Title hidden -->
+    {% else %}
+    <h1 class="ui header center aligned">
       {{page.title}}
 
       {% if page.subtitle %}
@@ -52,7 +55,8 @@
           <em>{{page.subtitle}}</em>
         </div>
       {% endif %}
-    </h2>
+    </h1>
+    {% endif %}
     {{ content }}
   </div>
 

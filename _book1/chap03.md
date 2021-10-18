@@ -1,160 +1,290 @@
 ---
-ref: "3"
-title: "The Origin of Creation"
-subtitle: "A message from the Voice of Christ through a Choir of Angels in the presence of Archangel Raphael and Archangel Gabriel"
+ref: "Chapter Three"
+title: "The End of Time"
 ---
 
-## I. Prelude
+Time is the measure of change, the march of change. Without change, there would
+be no time. Eternity has one dimension: always. Eternity is not a dimension or
+a kind of time; It has nothing whatsoever to do with time. All things eternal
+are unchanging, forever remaining as they were created. Time was invented to
+make change seem real. This was the purpose given it: To replace what is
+unchanging with what only changes, and make that changing seem real.
 
-Daughters and sons of The Highest, today we have come to talk to you about the
-origin of creation.  Before we develop the topic we have come to share, we
-would like to ask you to allow us to spend some time together, a time full of
-love and truth. A time that is transmitted and experienced from a triune heart
-to a triune heart. I speak to you in the plural so that you know for certain
-that we are many, many who have come and are, here and now. To you who read
-these words, we tell you: realize that countless numbers of celestial beings
-are surrounding you at this very moment. The very Jesus of Nazareth, the human
-God, is looking at you with loving devotion. The mother of love is embracing
-you and absorbing you in her Immaculate Heart, giving warmth to your heart and
-to all that you are. Angels surround you everywhere and the symphonies of
-Heaven gather in a chorus of praise wrapping your whole self and your whole
-existence. The harmonies of Heaven flood the Earth with love and mercy through
-this manifestation that, here and now, becomes present. Feel the beating of the
-wings of the Seraphim. Feel the sweetness of love.
+Time is described as having three dimensions: the past, the present, and the
+future. They are related to each other through a kind of sequencing. What is
+the present becomes the past as time “moves on”; and what is anticipated, not
+yet here, is thought of as the future. This future then becomes the present as
+it is reached by experience and, in turn, becomes the past as it leaves
+immediate experience and becomes memory.
 
-You who read these words, and you who have been chosen to receive and give
-these words in an act of perfect creation in the design by Him who is three
-times holy, you must know that Heaven has descended to you and from that union
-is everything done. All that is expressed in this blessed work is materialized
-by means of these word-symbols—symbols that are the manifestation of a dialogue
-between you and creation, between you and Heaven. You are the one who gives
-life to these words. Become aware of this union between Heaven and yourself
-because we are literally surrounding you everywhere and filling your whole
-self, your life, and your existence with infinite love, light, tranquility and
-peace. Feel the tenderness of love. Feel the peace and rest that spring from
-this refuge of divine love in which we are together. Enjoy this time of union.
-Feel embraced by love, because love is embracing you.
+Time is a kind of trick, not at all what it seems to be. As experienced in this
+world, it seems to control your life, to set limits on it. “Time marches on”
+and “Time waits for no man” are expressions of the belief in time and its power
+over you. Time has no power over you unless you grant it. Time and space are in
+your mind; you invented them and then forgot this fact. They were projected as
+the backdrop, the context, in which separation appears and plays out its
+effects. Separation could not exist without them.
 
-## II. The Self As Source
+Time, space, and a world of separation and change, arise together or not at
+all. When the separated mind first began to divide itself, time and space were
+projected along with form. Through the invention of form, did separation,
+difference, and change become manifest; perception then arose as means to
+“prove” their reality and maintain it.
 
-Every creation has a source. It starts with something. You have a source
-yourself and you must have started from something. Something must have preceded
-you. This eternal truth is implicit even in form, which mimics content.
-Everything comes from something or someone. Bodies emerge from other bodies.
-Flowers emerge from other flowers. Ideas are concatenated one after another,
-giving life to their contents and creating new ideas, new thresholds of the
-mind.
+Perception’s role is to be witness to the reality of what you want to be true,
+of what you want to believe. It perceives what you want it to perceive, and
+this is interpreted as “proof.” The world you see is a reflection of what is in
+your mind, nothing more. Your thoughts have made it, and your continuing
+allegiance to those thoughts maintain it.
 
-The mind is a creative medium. It is a means through which all creation is
-manifested. Creation is a literal expression of something through both mind and
-heart. As much as it seems to be, the thinking mind is not a source of
-creation. Even though feelings and emotions seem to create an emotional state
-or climate, the heart is not a source of creation. There really has to be
-something that precedes the mind and the heart for creation to take place and
-that uses both mind and heart in its expression. Consciousness is also not a
-source of creation because consciousness is simply that part of the self that
-makes you aware of what the mind and heart are manifesting. Consciousness is
-the window of the self by means of which you know yourself. We could then
-argue that will and its freedom of choice are a source of creation, and that
-all creation is the result of a creative will. However, the will and its
-freedom—in the degree that it is, because you can limit it—cannot be the source
-of creation because will and freedom are means and not ends. The end or purpose
-of creation is not for the mind, nor the heart, nor the consciousness, nor the
-will.
+Whenever you decide to change your mind, to change your thought system, the
+world you see will change accordingly. The world will always reflect back to
+you what you think and believe; it cannot be otherwise. The choice is always
+given you to decide which of two worlds you want to see: the illusory world you
+have made, or the world in which Truth is reflected, also an illusion, but with
+one important difference. You have made the decision you want to see truly,
+through the Mind of the Holy Spirit; and His Vision shows you a world in which
+the reflection of Heaven and the Truth behind all appearances greet you, and
+the Love of God is everywhere and cannot be denied.
 
-If every creation has a source it must have purpose. The mind, the heart, the
-consciousness, the will, and freedom cannot be the end of creation; they cannot
-be their purpose. What sense would it make to create all of creation with the
-only purpose being to give conscious existence to the mind, the heart, the
-will, the self, and consciousness itself? Can you, with your thinking mind,
-create a star? Can you, with your human will, create a sun? Can you make the
-mountains change place and plant themselves in the ocean through your feelings
-and emotions? How many times do you want something to be a certain way and yet
-it is otherwise? It is what it is.
+The real world rises to your perception because you have chosen Truth over
+illusion. When illusion is your choice, that is all you will see; the face of
+Truth will not be seen. Perception, like all experiences of this world, is a
+choice you are making. Everything you do is a result of what you think it’s
+for. If an action fulfills your belief in value, you find it good. If it does
+not, you will avoid it. The perception of value is the point around which all
+your actions revolve. What you value, you seek. What you don’t value, you
+ignore. And what you value negatively, you avoid. To seek, ignore, or avoid,
+defines your behavior and determines your goals.
 
-## III. The Unified Self
+In this world you value and seek illusion and its continuation. You ignore
+Truth, defend yourself against It, or avoid It. Such is your life. Yet your
+Self waits for your return. It knows only what is true for it knows not
+illusion. You long to return to your Self with all your heart, but this longing
+is buried beneath the cloud of desire and ignorance that darkens your mind and
+obscures the memory of Truth.
 
-Sons and daughters of purity, the thinking and non-thinking aspects of
-mind—that is to say imagination, memory, feelings, emotions, free will, and
-consciousness—are simply faculties of the soul. Just as a physical body has
-feet to walk and a mouth to speak and many other parts that have a function, so
-too is it with the soul. Do not confuse the faculties of the soul with the soul
-itself. The faculties of the soul are simply that: faculties. They are the
-tools that allow the expression of the potentiality of the soul in form.
-Potentiality of the soul is manifested through its faculties by becoming an
-act. Creation is the expression of potentiality through its faculties.
+## Memory and Purpose
+{: .ui.header.center.aligned}
 
-Now we replace the word soul with the word Self. For the last time we use the
-capital letter to distinguish the old self, the false identity or false image
-of yourself, from the true Self created by God as God created you to be. It is
-no longer necessary to make this distinction between self and Self since every
-sister and brother in Christ who has come here has already gone through the
-process of undoing the ego and is no longer the old self that used to be. The
-old man or the old woman has been left behind forever and has already been
-abandoned.
+When the memory of Truth returns has already been determined. Your task is to
+reach that point. To attain the necessary condition in which Truth returns to
+awareness and sets you free, is the only purpose for life in this world. The
+ego has many different purposes it will assign the world, if you so choose.
+Each purpose is meaningless, but will appear meaningful as long as the ego is
+your chosen guide. Every purpose will fail as its shoddy results are
+recognized, yet another will rise to take its place. And so it will go while
+you continue to seek purpose and meaning where it cannot be found. The ego
+cannot assign purpose to life for it understands nothing, and purpose rests on
+understanding.
 
-Now you are one: a new self. The real self that God created in His will. Now
-you are one soul. One self. One heart. You are one with all that you are and
-with all that is. Yet this new self that you are is what still generates some
-discomfort, restlessness, and impatience. For the old self has vanished
-forever—and with it a whole world—returning to the dust from which it had
-emerged, and a new self has begun to shine like the light of the world. Little
-by little you will get more and more used to your glory and your power, to the
-magnificence of the self that you really are. To facilitate this we will not
-make any more distinctions between self and Self. Now we’re talking only
-about the true self. We’re talking about you and me and everyone.
+Purpose is found by listening to the Voice for God, the Holy Spirit. He knows
+the only purpose possible in a world of pain and separation where God is
+forgotten and peace cannot be found. He will teach it to you and help you learn
+it, if you allow Him.
 
-The self is the source of creation, its origin, and its purpose. Creation is
-nothing other than the potentiality of spirit manifested in form. Self
-expresses itself by reason of being what it is. Every self expresses itself and
-cannot stop expressing itself. That expression of self is what we call
-creation. Therefore, the origin of creation is the self, the spirit, the soul.
+The purpose you see and believe in sets the course of your life. Every human
+life is an expression of the purpose it serves. That purpose may be conscious
+or unconscious, recognized or unrecognized, but it will determine your
+direction, circumstances, and goals. Purpose is meaning, and values express or
+are derived from meaning. All together, they provide the center around which,
+from which, your life develops.
 
-But what are we talking about? Only the true self, which is love. Love is the
-self that is the origin of creation. Nothing can be created without love
-because outside of love there is nothing. To be the love that God is, and to
-proceed as an extension of God, is the only thing in the universe that
-possesses within itself potential and true creative power. This nucleus of
-power resides in every spirit and is its only reason for being. Thus the mere
-existence of the self causes creation to spread. The power of extension of
-creation cannot be abolished because it is inherent in self.
+Purpose gives life meaning and direction. There are but two possible, and they
+are completely opposite: real or spiritual purpose, and superficial or egoic
+purpose. The ego’s purpose may present itself in many forms, each apparently
+different and offering rewards that seem to differ. They differ but in form,
+for the content of all is the same. They offer you nothingness and reward your
+faithful adherence to the ego’s purpose with death.
 
-## IV. Love and Creation
+The ego’s goal for you is death, no matter how attractive the purpose which
+leads you there appears to be. To follow the direction set by a purpose whose
+goal is your death, must be insane. If you were truly aware of where all
+purposes given by the ego lead, you would renounce them immediately. Your
+unawareness of what is directing your life and why, keeps you trapped in
+meaningless pursuits. Life lived in a state of unawareness about who you are,
+will only lead you nowhere.
 
-Love is the origin of creation because only love is. The power to be both cause
-and effect that is characteristic of love is the power behind everything in
-creation. The power that resides in love is the power that activates the will
-so that that which is potential becomes active. This is how love manifests, by
-extension. The origin of creation lies in the very nature of the unstoppable
-impulse of love to extend itself to be known. That force that created the whole
-universe resides in you. There is a nucleus within you that is united with the
-divine nucleus.  It pushes your spirit and spurs it to spread, to get out of
-the chrysalis and start flying.
+The Holy Spirit knows who you are in Truth, and He leads you away from death to
+Life. If you will accept the purpose He gives to life as your own, you will
+leave death behind forever. But you must be willing to give up the false
+identification with the ego. This error leads you to accept the ego’s thought
+system as your own, and all other errors then follow. The ego will not let you
+choose what is truly in your interest, for to do so would result in its
+disappearance. It goes to great lengths to obscure the fact that you are not
+the ego.
 
-Daughters and sons of light! Understand this surely: to express love is to
-create. To express love is to be as God created you to be. To express love is
-to express yourself in truth. Only compassionate feelings and loving thoughts
-are the truth about you. Only happy memories. Only images of beauty and
-harmony. Only the purity of your heart. Only the joy of self. Only holy words
-are the truth about you. Embrace the love within you. Join with the love that
-lives in you. Feel the tenderness of love. Remain where love dwells and let
-love express itself through its power. Love and only love will save the world.
-Not love as conceived of in a distorted way for centuries, but only true love.
-The love that you truly are. Your self.
+The ego is a part of your mind. It lives in your mind and dominates the
+attention function of the mind, as long as you allow it. To so allow is to turn
+over your mind to the ego’s thought system, and by so doing accept its premises
+and motivations. This leads, of course, to following its purpose. To follow the
+purpose given you by the ego is to choose pain, sickness, suffering, and death.
 
-Everything that is love in you is what will begin to expand today.
+The ego is the part of your mind that is unreal; experience that appears in the
+mind identified with what is unreal, is also unreal. The solution to the error
+of misidentification begins with the recognition you are not the ego, and that
+your mind is most fundamentally the consciousness or awareness in which
+thoughts, feelings, impulses, and impressions or perceptions appear. This means
+you are free to choose the thoughts you want and disregard, or choose against,
+the rest. You are free in principle but not in fact. So long accustomed to
+identifying with the thoughts, perceptions, and experiences of separation, and
+the egoic thought system, the freedom to choose has been lost. The very idea
+has vanished from your awareness, and through the automatic, unconscious, and
+continuous identification with what you are not, illusion has become your
+reality, your identity in your experience.
 
-This is a call to your will and all of your faculties. This is a call to allow
-the explosion of the power of love that you are. You who read these words are
-ready to let the love that you are manifest. Do not choke it off. Be pulled by
-the wings of the spirit of God. Be pushed to extend more love and thus continue
-to create from your self.
+## Free to Choose
+{: .ui.header.center.aligned}
 
-Sisters and brothers in the light, stay in the presence of the love that lives
-in the undivided union of the three hearts now and always. This will save the
-world and will create new universes, infinite universes whose foundation will
-be peace. Eternally enjoy the game of beautiful love, the game of creating as
-God creates, that is to say, create new love from love, with love, for love.
-Don’t try to love by yourself. Rather, let the love you are express itself,
-staying now and always in the presence of love.
+As long as you are absorbed in, and identified with, what you are not, you
+cannot experience what you are in Truth. In any moment, you will be one or the
+other, but never both. You are given the opportunity to choose Truth every
+moment, but you must make use of it. Your responsibility is to become aware of
+what passes through your mind at all times. In order to exercise the ability to
+choose between two alternatives, you must become aware of the automatic
+tendency to choose, to identify with the egoic thought stream. To do so is to
+give up your freedom to choose and simply allow past habit to dominate mind and
+experience. This keeps you locked into narrow, repetitious patterns of thought,
+feeling, and behavior. No space is given for freedom to enter your life, for
+the present is lost to you. Freedom is of the present, only the present.
+
+To be free to choose, you must be present in your mind and aware of your
+thought process. This puts you in position to choose what you want to think. To
+be unaware is to be at the mercy of whatever is passing through your mind any
+given moment. To be free is to choose freedom, and thus choose against what
+limits you and keeps you in bondage. Freedom requires the acceptance of
+responsibility for what you think and do. Only those who are totally
+responsible can be truly free.
+
+Whenever you choose to be what you are not, you are deciding against your
+freedom. Freedom is only possible when you are being your Self. To be something
+other than what you are, is a state of bondage. To not know who you are and
+what your purpose is, is not freedom. You have forgotten your Self, and have
+wandered in a dream, lost and alone. Yet somewhere in your mind, the memory of
+what you are still calls to you, although you cannot hear it. The ego’s shrill
+voice drowns out the still, small voice of Spirit, for Spirit, the only Power
+in the universe, will not do battle or oppose. Perfection does not recognize
+imperfection or illusion. It simply shines it away by being Itself.
+
+Your task and responsibility is to become aware of all that clouds and
+obstructs your most Holy Mind, and decide against it in each and every case.
+The Truth of what you are needs no help in being what It is, but you have lost
+It by banishing It from your awareness. This need not be. What has taken the
+place of Truth in your mind must be recognized and given up with the help of
+the Holy Spirit.
+
+Allegiance must be withdrawn from the ego and from all that you have learned to
+value under its tutelage. Everything that it taught you is false, and has hurt
+you. If the Self is to return to your awareness as your Identity, you must
+invite and welcome It. This cannot be done while you are actively denying and
+resisting It. To choose the ego as your identity, as your self, consciously or
+unconsciously, is to deny your Identity in Spirit. You cannot be both, just as
+you cannot serve two masters. The belief that you can, leads to all kinds of
+errors, conflicts, and confusion.
+
+Only God is real. Only what God has created shares His Reality. Everything else
+is mere imaginings, projections of a mind that has lost awareness of its Source
+and true Being. Lost in a dream of its own making, it seems to live in a form,
+a body, surrounded by other forms, each separate from all others. It is born,
+lives a short while, then dies. While it lives, it suffers pain, loss,
+sickness, and loneliness, is attacked and attacks. Such is life in separation
+from your Creator.
+
+To heal the separation is the function of the Holy Spirit. He guides you step
+by step through the undoing of your mind, of the false belief system. He
+teaches you the Truth, giving you true ideas to replace illusions. He gives you
+spiritual vision that you may see the real world, the reflection of Truth in
+the dream. He takes you back to the Wholeness of your Mind, and the remembrance
+of your Father. All He needs from you is your willingness; the willingness to
+turn your life over to His direction, the willingness to let Truth back into
+your mind, to let go all that obstructs It.
+
+The Self that you are, waits for your return. It has been waiting since the
+separation, and It will wait until you are ready to welcome It back. You could
+be reunited with your Self in an instant if you were to desire this wholly, and
+this only. Because this desire is weak and partial, the reunion seems to take
+time, even a long time. How long it takes is your decision, for willingness is
+needed, and nothing can or will be forced upon you. Always is your free will
+respected, and never will it be violated.
+
+## Freedom and the Present
+{: .ui.header.center.aligned}
+
+Time itself is meaningless. Yet like anything you have made, it can be used for
+a different purpose. To the Holy Spirit, time is to be used for learning until
+learning is complete. Then time is no more for there is no need of it. To
+follow the Holy Spirit’s direction, is to save time. When you know the purpose
+of life and its only goal, the emphasis then becomes to save time.
+
+You have been here long enough, separate from your Self and your Creator. There
+is no more need to suffer, to prolong the journey. Transformation is now; it
+does not wait on time, yet uses time to accomplish its goal. When you see time
+purely as means to be used to reach the goal which ends time, you will be using
+time rightly. If time is not used rightly, it functions as the background in
+which the senseless journey continues, a journey which goes nowhere and ends in
+death.
+
+To abide in the present is to use time constructively. It is in and through the
+present that spiritual transformation takes place. Through the healing of the
+present, the past is released and the future set free. To live in the present
+is to assure a future unlike the past. Your journey unfolds in the present and
+extends itself through a future free from the dark shadow of the past. The past
+must be healed. The habitual patterns of thought and behavior that govern and
+control your life, must be brought to full awareness, given up, and replaced
+with forgiveness.
+
+Forgiveness is the key that unlocks the gate to Heaven; without forgiveness is
+escape impossible. The belief in attack keeps the mind prisoner to fear.
+Forgiveness is the recognition that attack is impossible and has never
+occurred. Forgiveness is the decision against fear, for it stems from Love’s
+perfect understanding. This understanding is defenselessness, the laying down
+of all defenses.
+
+Defenses are a part of the belief in attack. No one needs defenses unless they
+believe they can be attacked. You believe in the reality of attack because you
+believe you can and have attacked your brother. If you can attack, it then
+follows, you can be attacked. Forgiveness demonstrates this is untrue by
+showing you the unreality of all attack. By healing the perception of
+separation, you learn that you are literally attacking yourself. You are always
+the first victim of your attempt to attack, no matter what the outward
+appearance.
+
+When forgiveness becomes perfect, is perfectly established in your mind at all
+times and in all circumstances, you have come to the end of learning. What
+happens then is the ultimate fruition of your willingness to return to God, and
+cannot be described.
+
+Until then you must exercise willingness constantly by forgiving your brothers,
+all situations and circumstances, and the entire world of appearances, without
+exceptions. To hold on to one exception, will keep attack alive in your mind,
+and Love will be absent. To make exceptions is to refuse to relinquish the
+belief in the reality of the world of separation. The world must be given up
+entirely or you will remain a willing prisoner of what you have made..
+
+The choices you have made since time began, only perpetuate your imprisonment.
+You must choose again if you would be free, not once but again and again, even
+every moment. Mind is continuously active and its activity never ceases; that
+is its nature. Every day, every hour, every minute, and even every moment, you
+are choosing between two opposite thought systems. The ego represents illusion;
+the Holy Spirit represents Truth and the way back. And which you choose becomes
+your reality. To choose illusion, and through the power of mind make its
+effects real in your experience, is to choose nothingness; and through your
+choice you will suffer the pain of separation from your purpose, your function,
+and your Self.
+
+To let the Holy Spirit guide your choices is to exercise your freedom in a
+world where freedom is absent. While the past continues to determine your
+present, you will never be free. Freedom is found in the present when the mind
+has been freed from the habitual functioning established in the past. In the
+present, you come face to face with Reality, if you so choose. Reality will,
+however, not be apparent if the mind is dulled by its past associations and
+habits of perception. Reality is accessible only to a mind that is bright,
+alive, and focused in the present. To let the mind wander in the past or
+project the future, is to miss the present entirely. 
+
+Only a quiet mind, resting in the present, can encounter Truth. An
+undisciplined mind, an untrained mind, cannot attain or maintain the necessary
+condition to directly experience its true Being. The purpose of spiritual
+discipline, of mind training, is to achieve just that quietness and stability
+of mind in which Spirit reveals Itself as you. 
 
