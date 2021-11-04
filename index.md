@@ -80,7 +80,7 @@ Intro
       </a>
       <div class="content">
         <div class="description">
-          From the Christ Mind
+          From the Christ Mind: Book I
         </div>
       </div>
     </div>

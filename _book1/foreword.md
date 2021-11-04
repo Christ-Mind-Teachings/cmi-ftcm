@@ -3,7 +3,7 @@ title: Foreword
 hideTitle: true
 ---
 
->> The Christ has need of helpers in the world of form <br>
+> The Christ has need of helpers in the world of form <br>
 and separation. Each one brings a Light that shines away <br>
 all darkness. Each one bears a message of Love and hope, <br>
 of resurrection and the end of death’s harsh rule. <br>

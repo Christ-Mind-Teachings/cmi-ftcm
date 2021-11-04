@@ -1,292 +1,430 @@
+--- 
+ref: "Chapter Five" 
+title: "Love and Peace"
 ---
-ref: "5"
-title: "Come, Be My Light"
-subtitle: "A message from Archangel Raphael in unison with the Choir of Angels in the presence of Archangel Gabriel"
----
 
-## I. Prelude
+Love’s call will reach you if you let it. This call has gone on unceasingly
+since time began. Yet you have not heard it because you have not been
+listening. The din arising from the battlefield that is worldly life has
+drowned out every call for Truth. The sounds of conflict will always obscure
+the still, small voice of Spirit. Peace is more than the absence of strife.
+True peace is a condition in which the thought of conflict cannot arise for its
+cause has been healed. 
 
-Beloved pure soul, betrothed of the living Christ, love that God is! Today we
-have come, once again, as the countless children of the Creator that we are. We
-have come by the will of the Father to speak to you and to all souls who in one
-way or another receive the words of love and wisdom of this blessed work. You
-souls are in the design who by your openness of heart welcome this
-manifestation of Heaven. From all eternity you have been conceived by divine
-wisdom as part of a supreme plan. We have come to address you today by means of
-a helping hand who, as a scribe of Heaven, becomes the channel of our angelic
-voice and serves the cause and effect of heavenly love.
+All conflict has its origin in the state of mind where fear prevails and your
+brother is seen as separate and unrelated to you. Fear leads easily to hatred
+and anger. Anger is always the desire to attack, and what you fear you will
+hate. Hate perpetuates fear and attack, and the cycle continues without end as
+long as fear and separation rule your mind. 
 
-Thank you for listening to the voice of Christ, the voice that speaks in all
-hearts thirsting for love and truth. Christ is love. Only the true love of
-Christ is Heaven. You who are the betrothed of Christ, remember always that the
-Father has given us a message for each of you who are part of this work, either
-by reading, lovingly listening, or by sharing your experience and giving
-expression to the love and beauty of God. We also speak to the many who
-unknowingly receive the love that flows from us to them through this channel of
-grace. They are minds that in one way or another seek the truth, hearts that
-sincerely yearn for peace, love, and concord.
+Peace begins with the recognition that my brother is myself, that only one of
+us is here. With that understanding, I begin to see that all conflict starts
+and ends with myself. Always and only it is myself I attack and nothing is
+gained thereby, for only loss results. What I do to my brother, I do to myself.
+I can never escape the effects of what I do for cause and effect are never
+separated. 
 
-Beloveds of God, remember that the word of the Most High is the word of eternal
-life. It is a living, life-giving word. It always achieves its purpose. And
-since it comes from everlasting wisdom, the pure love that you call Abba,
-Father, God, or Creator, it is unlimited. It is not subject to time or space.
-Thus the voice of love always reaches where it needs to go. The word of God is
-like the wind: you know not from where it comes or where it goes, but it blows.
-The wind of love always blows, refreshing arid hearts and removing the debris
-that conceals the soul’s light of truth.
+The mind devoted to peace as its goal becomes a beacon, set on a hill, high
+above the battlefield. From there, it shines upon its brothers, helping them to
+lay down their arms and return to peace. Peace is the home of those who love
+God and would extend that Love to their brothers. Love follows peace as surely
+as fear follows conflict. When peace fills your heart, there is room for Love
+only; conflict will not find a home there. 
 
-Holy ones, we have come in response to the call from you who have asked for a
-spiritual practice. In the past you have immersed yourselves in the grace of
-prayer and contemplation. Know now that we are no longer on the path of effort,
-action, sacrifice, or rituals of form. You no longer need exercises. Now you
-are in the time of living the truth that you are, in the time of being, in the
-time of the joy of love. This is the time of Mary, a time of harvest, in which
-you, the sowers, return singing as you bring in the sheaves, a time of
-remaining in the radiant presence of the truth that is the supreme end of
-reason. However, since you have asked for a practice, it will be given, just as
-you who asked for a path of devotion and prayer have been given the devotion to
-the union of three hearts. A single practice is all that we offer for you who
-are the spouse of perfect love, who already live in truth.
+All that will happen when you renounce conflict completely is that you will
+leave this world forever. The dream cannot hold you captive if you refuse to
+live by its terms. Belief in guilt and sin and therefore the continuance of
+fear and the attack that follows, are the conditions set by the ego for life in
+a world of apparent separation. 
 
-Remember: while truth is always true, not everyone comes to it at the same
-time. It is always advisable that even though a practice is no longer
-necessary, or even inappropriate, still it may be used until the perfect time
-for you to release it. Meanwhile, God attends to this particular desire of your
-soul. Therefore, enjoy the ineffable gift that Heaven gives you in this
-spiritual
-exercise, which, if understood in spirit and truth, contains within itself all true practices of love of the Creator that help us to live in union with the totality of God.
+## Give All You Have
+{: .ui.header.center.aligned}
 
-## II. An Exercise In Union
+Do not believe what you see: a play of shadows appearing as if substantial,
+flickering images appearing on the screen of your mind. Do not be the willing
+victim of a trick you are playing on yourself any longer. You never really
+wanted to live in separation from your Father and your Self. It was all a
+mistake, an error, nothing more. An error that took hold of your mind and
+seemed to make a world of fear, suffering and death. You can leave this world
+at any time by changing your mind about its purpose. Let it be for you not your
+home but a way station, a place you are passing through, giving aid to other
+weary travelers before you leave it behind forever. 
 
-Be still now. Leave the world outside. Leave aside all your worries, if you
-still perceive any. Let all your beliefs go serenely. Immerse yourself in you
-and in the immeasurable vastness of your soul. Call with all the love of your
-heart:
+What would you do if I told you to give away all you have to the poor and
+follow me? Would you understand what I mean? To give all you have is to give
+only what is real, for that is what you have and that is all you have. You do
+not truly have what is not real; its possession is just a dream. What is real
+is only what comes from God, what was given in your creation. That you must
+give away for therein is its nature and meaning. By giving it to your brothers,
+you are able to keep it for yourself; your store of God’s treasures only
+increases. 
 
-> Jesus, Jesus, Jesus, \
-> Husband of my soul.
+Those who lack the awareness of what they are, are poor indeed in the only real
+sense. To give to them all you have, is to share the peace and the Love of God.
+To see the Light in your brothers is to recognize them as they are in Truth. In
+so doing, you are following in my footsteps, doing what I have done. I will
+never ask you to do anything I have not done. What I did can you do also. In
+fact, you must do it also for therein lies your salvation. Through my example,
+through what I learned, can anyone find salvation through forgiveness. I call
+upon my brothers to forgive as I have forgiven, for in that lies your escape
+from pain, sorrow, and death. My life was not for me alone; its lessons were
+learned for the benefit of everyone. My gift to my brothers was the way I lived
+and the triumph over death. I proved that death is not real, that you cannot be
+killed. My example removed all reasons to fear and hate, leaving only love and
+forgiveness as the response to everyone at all times and in all circumstances. 
 
-Say the name three times. Call him what he really is for you: blessed husband
-of your soul. Feel the name resonate throughout the universe. Become aware of
-how creation is silent in perfect reverence before the love of loves when you,
-the betrothed, pronounce the name of your divine spouse. Say the name of the
-beloved of your soul, then be silent. In peace remember that Jesus is the name
-of the humanized Christ, God made man, your brother, your husband, your divine
-savior.
+## Never True
+{: .ui.header.center.aligned}
 
-Immerse yourself in expectation. Observe all creation as imbued in sacred
-silence, in the ecstasy of love, truth, and contemplation, in the presence of
-the husband of love. Feel the union of your heart with the sacred heart of
-Jesus. Join him. Stay with your beloved. Stay in love. Fulfill yourself in
-this. Tell him how much you love him, then return to silence. Let love do what
-it does.
+What was never true is not true now nor will ever be. The Truth has not left
+your mind. The Truth is your Mind, your Being, and your life. It has always
+been so and always will be. Do not let belief in the projected illusion take
+the place of Truth any longer. It is time to return to the home that has always
+been yours, that awaits your decision to be as you are truly. 
 
-After having met with Jesus in his most sacred heart, pronounce the name of the
-mother of the living, who is also your blessed mother. Say to yourself:
+This decision, despite all the apparent complexity and confusion that surrounds
+and obscures it, is actually quite simple. You need only be willing to
+recognize that you are not a body; you are not all the beliefs you hold about
+yourself. In that recognition lies your release from every form of bondage,
+from all pain and suffering. This willingness, rightly exercised, will develop
+and grow until you are reunited with your Self. The decision that permits the
+return of Truth is quite simple, straight forward, and consistent in its
+application. Unless it remains so throughout the duration of your return
+journey, you will suffer needless delay. 
 
-> Mary, Mary, Mary, \
-> Mother of God and my mother.
+The journey home need not take a long time. It can happen instantly if you
+would so choose. At any stage, at any moment on the path of return, you can let
+go all apparent obstructions, all experience of illusion, and disappear into
+the Self. Yet is this seldom the case. Why? The mind vacillates in its
+willingness, it commitment, its purpose. Old tendencies and habits die hard. 
 
-Link your heart with the Immaculate Heart of Mary and become a single being in
-union with the mother of love and with Jesus. Become one heart with the divine
-essence. Get lost in Mary. Feel the embrace of tenderness. Feel the warmth of
-motherhood that springs from your insides and imbibes your whole being. Feel
-the sweetness of Mary. Abide in the purity of your heart. Be silent, and drink
-from the fountain of eternal life that springs from the Immaculate Heart. Now,
-join your soul to Jesus and Mary. Let Christ express himself as what you are,
-here and now. Enjoy yourself in the presence of love.
+The human mind is a battleground, a place of warring tendencies and desires.
+Impulses come and go, and thoughts arise in a constant stream that demands your
+attention. Reactions to outside events and the emotions that arise within pull
+you first one way and then another. Emotions arouse thoughts, thoughts oppose
+or judge emotions. A swirling maelstrom of activity is the mind of separation.
+This constant distraction, this constant battle for your affections and
+allegiance, drains your energy and weakens your purpose. 
 
-Beloved soul, follow God’s voice. Regardless of what you believe about Jesus or
-Mary, even if you knew nothing of the greatness of their divine hearts, simply
-pronounce the names and receive in the depths of your heart the grace of being
-aware of your union with all that is true. Your soul knows of what we speak.
-The soul sings, dances, and vibrates upon hearing names of love.
+The calming of the mind to bring it to a state of peace and quietness is thus
+essential. A quiet mind has been made ready to receive the Truth which will not
+wait long to enter. Truth’s return is assured once the obstacles to its coming
+have been removed. You need only meet its conditions and you will be free once
+again. 
 
-Do this exercise every day if necessary. Cast yourself confidently into the
-arms of love. Stay in this divine union, the refuge of your soul. Your mind
-will find the solace and security it seeks in the center of the heart of Jesus
-and Mary. Your heart will find the calmness, peace, and serenity of spirit for
-which it longs. Embark with the nectar of pure divine truth that emanates from
-this union of perfect love. Inhale the beauty of the holy perfume that springs
-from this sacred union. Become one with the whole. Stay in the presence of
-love, now and always.
+## Be Present
+{: .ui.header.center.aligned}
 
-## III. A New Alliance
+What needs to be done in every situation and circumstance no matter the
+conditions, is to be present wholly with whatever occurs without judgment or
+reaction. You can only respond fully each moment if you are not limited by or
+trapped by the past. If the past is operating in your mind and dominating the
+present, you will project onto and interpret what is happening; never will you
+meet the situation as it is. Only with a clear and open mind can freedom be
+found no matter what the circumstances, and this freedom is offered to all
+through the Holy Spirit. 
 
-Sisters and brothers in Christ! Now that you know how to reunite with the
-totality of the love that you truly are, and now that you know that you do not
-need any spiritual exercises—except the ones that keep you united to the love
-that you are—you are perfectly ready to receive this message of love from
-Heaven. We have come to form with you a new alliance, which is within the great
-alliance that Mary has made with you, or rather that God Himself has made with
-you and whose perfect expression is the love of Mary.
+Freedom is the gift of being present without the past, being free to act from a
+state of Love and Presence. To bring to the now only Love and openness is to
+offer healing to everyone and everything. Only by giving healing to all will
+you receive it. No one can be excluded from receiving the gifts you offer if
+you would keep them for yourself. No matter what you would do, do it with Love
+and you will be blessed. Happiness will always accompany Love just as sorrow
+will always follow fear. 
 
-Beloveds of God, this is a message from your Heavenly Mother, brought from the
-dimension of no-time by our angelic hands and magnificently proclaimed in the
-voice of our celestial choir. We give it with all the love of our hearts, with
-all the love of the Mother and the Sacred Heart of Jesus, in whose essence
-everything that is true exists, including you. Please receive this gift with
-love and humble gratitude, aware of how much God loves you and how much love
-for you manifests through Mary and Jesus.
+## The Ego’s Goal
+{: .ui.header.center.aligned}
 
-Yes, beloveds of the Father, we have come to seal a perfect alliance with you
-for you to become aware of the covenant of your hearts with eternal love. You
-and your Creator have a perpetual alliance of pure love. What is a betrothal
-but an alliance? Do you not use a ring as a symbol of a marriage alliance? We
-do it in the name of God, that is, in the name of love. This is a covenant of
-love between you and God, a renewed pact that today will be sealed forever.
-This covenant reflects the beauty of your heart united with the greatness of
-the heart of Jesus. This covenant already exists; today it comes to awareness.
-It is a pact between you and your being, between you and truth, a covenant
-never to separate yourself again, even for a moment, from the love of God, just
-as He never separated, nor will ever separate, from you.
+Whenever there is any doubt as to who you are and Who your Father is, stop and
+ask yourself this question. Who is it that doubts? What is it that does not
+know what it is? The ego is ignorant of the Truth of what you are for the ego
+knows nothing. The ego was born as a response to the terror of separation, as
+the identity that took the place of your true identity. Meant to be the denial
+of what you are in Truth and the defense against it, the ego will only tell you
+that you are what you are not. Do not look to the ego for validation or
+clarification. It will always tell you that you are a body, destined to sicken
+and die, for this is what it believes. 
 
-Both of you are now linked with bonds of love and light, united for eternity.
-In this covenant, God Himself warrants: my beloved, blessed soul that came out
-of my being, we are no longer two but one flesh, one spirit, one truth, one
-identity, one holy love. We are the perfect union of truth. We are the oneness
-of love. We are eternally one, husband and wife, lover and beloved. We are two
-faces of a single truth—the face of love and the face of holiness. We are a
-perpetual alliance of love. We are one, the created and the Creator. We
-mutually accept the absolute, irreplaceable, indissoluble dependence of God on
-you and your being on Him. God Himself has now become fully dependent on your
-trust and your love.
+The Holy Spirit alone knows your true identity and holds that knowledge for you
+until you are ready to accept it. Nothing prevents you from remembering who you
+are except your refusal to do so. The fear engendered by the ego in your mind
+prevents the willingness to remember from arising to awareness to set you free.
+The defense against the return of the Self is so strong, well established, and
+consistent, that you need help to free yourself. 
 
-In the silence of love from the depths of our hearts we listen with joy and
-sacred veneration to what the Father says to the Son, what the husband says to
-the spouse. God speaks with the soul. Hear now, in silence, the voice of love
-speaking to love.
+Although the defenses that keep you prisoner are of your own making, you have
+forgotten that fact and so have lost control of them. They operate below the
+threshold of conscious awareness; thus are they virtually autonomous and
+completely effective at keeping the Truth away. Truth does not oppose and
+cannot enter a mind where It is actively resisted. As conscious mind, caught in
+a dream you do not realize you are dreaming, you go about your life completely
+oblivious to the Truth that is in you and all around you. I once said, “You
+shall know the Truth and the Truth shall set you free.” The Truth is freedom
+itself. It then follows that not to know Truth is a state without freedom, a
+condition of imprisonment. 
 
-<div markdown="1" class="indent">
+The ego’s goal is to keep you ignorant of who you are. Only by so doing can it
+keep the walls that contain your mind intact. To identify with the ego, the
+sense of being a separate identity, is to live in a state of ignorance. Such a
+state is literally harmful to your well being for the state of illusion is both
+the cause and the condition of suffering.
 
-*The voice of God the Father*: “My love! Soul that has sprung from My love,
-self of My Self, ineffable beauty! One day you wandered through strange lands.
-That day, seven swords pierced the heart of this faithful beloved. From that
-day I waited for you with a flaming desire of love. I looked for you throughout
-Heaven and Earth. I placed myself on a hill so you could see Me. In the glory
-of My resurrection as Jesus I called to you. I made portents and gave signs in
-many times and places so you could not fail to see, to bring you back to My
-arms. I sang you love songs so you would not forget Me. I sent My messengers to
-remind you of the love that unites us. In the bed of Heaven that I prepared for
-you from eternity, I waited. I prepared a mansion for you who are on the throne
-of My divine heart. In this mansion of Heaven I will treat you with the most
-delicious delicacies, delicacies that sprout from the delight of My heart.
+Yet is there always a solution to suffering of any kind and the ignorance that
+is its cause. Truth, born of right understanding and correctly applied, will
+remove the cause and with the disappearance of the cause do the effects vanish
+also. The solution to illusion, which is always a state of willful, albeit
+unconscious ignorance of Truth, is the choosing against illusion and the return
+of Truth. Light will always shine away darkness, not by attacking or opposing
+it, but by simply being what It is. Darkness, illusion, cannot exist in the
+Presence of Truth. The awareness of Truth is the answer to separation and all
+apparent problems that arise therefrom. Awareness of Truth is not a mental
+construct, a concept, for Truth cannot be made an object of thought. It cannot
+be experienced within the context of subject/object perception. Truth must be
+directly experienced in Mind Itself as what you are. There is no other way to
+find It and no other place It can be found. 
 
-“Oh, beloved of My Self, ecstasy of a God who is infinite love! You are the
-delight of My heart. You are the beauty of Heaven in which creation recreates
-itself. You are the love of My life. Oh, beloved soul! From the day I saw you
-leave, My heart sang a plea of love that said: Come back, come home My child!
-Come back to My arms, My beloved!
+## What Is Truth
+{: .ui.header.center.aligned}
 
-“Pure soul, beauty that has sprung from My holiness! One day you went to wander
-through strange lands. You left Me terminally ill in the desert of your
-absence, a father without a child, husband without a wife. All light became
-darkness. All music from Heaven was silent. I was bereft. Oh, beloved child,
-love of My Self! If you could imagine the pain that My divine heart felt upon
-seeing you depart, you would cease to exist. Oh, beloved! How much pain to have
-you separated from Me! Such pain of your absence can never be assessed. But
-child of My love, now that you have returned, which for all eternity I knew
-must happen—because I am your Father and Creator and I know the heart of My
-child—now that you have returned of your own will, My happiness has no
-comparison.
+Whatever can be seen, heard, or perceived in any way is not real. Whatever can
+be thought of or about is not Truth. Truth cannot be captured by word, thought,
+or concept. It lies forever beyond the reach of the mind of separation and its
+activities, for Truth is One. In It is everything that is real; all of God’s
+Creation is part of It, and nothing that was not created by God is real or
+true. Only the Truth is true, and what is not the Truth is not true. 
 
-“What love can be greater than love that chooses to love eternally, purely, in
-truth and freedom? Just as seven swords crossed My heart when you left, an
-infinite universe of endless joy arose when I saw you return—a happiness that
-can never wane because it comes from the perfect certainty that we will now
-remain together eternally. The joy of eternal reunion abolishes all trace of
-pain. Your return multiplies joy and love. Great is the feast of Heaven for
-your return! Great is My inextinguishable happiness. Even though the love of
-a child inside a mother’s womb is worthy of praise and joy, more joyful is the
-love of the child who, though free not to love, nevertheless chooses to love
-her with all their soul, with all their heart, and with all their self. Oh, My
-child! You are the joy of your Father. You are the triumph of love.”
+Nothing that is made by the ego as part of separation and upholding the belief
+in separation, has anything to do with Truth. All projections of mind are
+illusions meant to conceal Truth, to obscure It and shatter It into many
+discontinuous pieces with no relationship to one another. Do not be fooled by
+color and form, by differences great and small. They do not matter. They are
+not there. 
 
-*The response of the Soul*: “My love, Father of Heaven and of everything
-created, Beloved of my soul, I am here. I am back. I have returned. I returned
-not by myself but was brought by You in Your own arms. You searched for me. You
-found me. You loved me first. You brought me back to the nuptial bed of Heaven
-that is Your heart. You, my Father, my Beloved, You and only You have found
-what was lost. You saved me from eternal nothingness. You who are infinite
-compassion took pity on this lost soul who, without the warmth of Your love,
-would have passed through all eternity in the desert, thirsty for truth, in
-frozen lovelessness.
+The purpose of the world you see is to blind you to Truth, to cover It up with
+names and labels, categories and descriptions. What is One always and only,
+appears as many, separated by time, space, and difference. Only thus is the
+fiction of the ego’s existence maintained. The ego cannot survive where
+separation has been replaced by Unity, for the ego is the belief in separation,
+the thought system that arises from this belief, and the fictitious person to
+whom these thoughts and the body seem to belong.
 
-“You, faithful Beloved, have brought me back. And by the grace of Your kindness
-and mercy, I will be able to sing forever to the glory and purity of Your love.
-I have returned to Your arms, brought by Your love, to remain forever attached
-by Your side. Oh, my Beloved! Now I will sing eternally, with Your angels, the
-divine melodies that spring from the hearts that have become one with Your
-divine heart. Oh, my soul’s Beloved! Hold me to You for all eternity. Do not
-let me ever separate from You so that I can enjoy eternity in Your company.”
+The personal identity is a phantom, the ghost in the machine that isn’t there.
+When you look for it as if it were something substantial, you cannot find it.
+The body is a wholly neutral thing and has no volition of itself. It simply
+responds to the mind’s commands. There is no entity in mind. The mind is just a
+collection of thoughts, feelings, and impulses that was set in motion a long
+time ago. The sense of the ‘I’, of me, is just another thought although it is
+the most basic thought as it arose from the idea of separation, and in its
+arising, seemed to make separation possible by providing a central thought or
+axis around which the experience of separation could be constructed, and from
+which separation could be projected in an almost endless series of divisions. 
 
-</div>
+What you are in truth is not a physical or mental or emotional quantity. What
+you are is completely unknown to the senses or to the thinking mind. Spirit is
+beyond all measurement, all conceptualization, all perception. It can only be
+known directly by Mind as Itself. This knowledge is not of this world for it
+does not lie within the limits of time and space. You cannot reach such
+knowledge through your efforts; the ‘you’ must disappear so that the Self can
+reveal Itself in your mind as what you truly are, beyond all thought and all
+sense of a separate identity. 
 
-In union with your soul all Heaven now says “Amen.”
+If what you truly are has no basis in separation, and is in fact the
+demonstration that separation is impossible, then the separate identity that
+seems to be you cannot exist. In order for a thing to exist, its existence must
+be possible. Nothing whose existence is impossible can exist at all. Yet you
+find yourself an apparent bodily identity, separate from everything you see,
+and nowhere in the world around you is the Unity of all even remotely suggested
+by your experience. How can that be? 
 
-This sacred dialogue resonates throughout the universe. The perpetual covenant
-between your being and your true God-Self is sealed with this dialogue of
-perfect love. Your being and God have consciously become one for all eternity,
-a willful act of divine and human natures. Both natures have united for eter-
-nity. The alliance is sealed in a deliberate act of your free will, an act of
-free choice to which every soul is called. It is an act that you, individually,
-do in the name of all souls here and now because you have become a channel for
-the reunion of souls. You gather what was dispersed. You open a new portal
-between Heaven and Earth through which the miracle of divine love flows and
-extends. Anyone wishing to drink from this sacred source will be forever
-satisfied.
+You are dreaming a dream, an impossible dream. Yet like all dreams, does the
+impossible and improbable seem to be true, and the conditions of your dreaming
+seem to determine your life and its purpose. The dreamer has forgotten the
+Reality from which he comes although he has never left it. Dreaming can seem to
+last a long, long time, yet when it is over you will see it lasted but an
+instant. That is all the time it took for an entire universe of dreams to
+arise, play out its drama, and disappear again. What else could a world made of
+nothingness do but vanish from the mind that gave it birth when that mind grew
+tired of dreaming, of its childish play, and let the memory of Truth return.
+And the Truth will set you free from your own nightmares. Nothing has
+imprisoned you in a dream of death but your decision to be what you are not,
+and nothing can return you to the freedom you have always known but your
+willingness to know your Self again. Whatever the cost of freedom, you will pay
+it gladly if you could but remember, even for a moment, the freedom you have
+always known in God.
 
-## IV. Channels of the Light
+## Freedom
+{: .ui.header.center.aligned}
 
-Sons and daughters of the reunion of Heaven! Souls who by your own will, joined
-with the will of God, have returned to the Father’s house! You who welcome
-these words with love, this is the revelation being given to you now: You have
-been chosen to be channels of light. Each of you is called to spread love in
-your own way. We call you to constitute a countless number of channels of light
-that will open the floodgates of your hearts and let flow the light of truth
-and divine love. You will live as living reflections of the light of Christ.
-You will be love flowing from Heaven to Earth. You will be fireflies of love,
-stars of the new creation.
+In this world freedom must be earned for it has been thrown away and replaced
+with what denies and devalues it; fear has taken its place. Fear and freedom
+are incompatible; freedom is a state in which fear is absent. Fear denies
+freedom just as freedom demonstrates that fear cannot exist. The absence of
+fear is Love and freedom. They are never apart and they remain with you
+forever. If you are to realize freedom however, you must renounce fear in all
+its forms and lay down all desire to attack. It is fear and only fear that robs
+you of freedom. In fact, when you invented fear, you turned your back on the
+freedom in which you were created and chose slavery instead.
 
-You who receive these words, know that you are ready.
+Whatever you may do with your mind, you are expressing freedom or you are
+giving form to fear. These are the only two possibilities. Sure it is the many
+different responses that seem to be required in life do not appear to be
+limited to these two, yet that is all you are ever called upon to choose
+between. One choice leads you back to Heaven, the other maintains your place in
+hell. You cannot return to Heaven unless you are free to do so. To let fear
+rule your mind is to imprison yourself and lose sight of your true home. 
 
-As channels of light, which in these final times is as it was two thousand
-years ago for the apostles, you do not proselytize or seek to convince anyone
-of anything. You look for nothing. Why look for what has already been found?
-What will never be lost again?
+Freedom begins with the recognition that fear and fear only is the obstacle to
+freedom. Fear weakens you, leaving you cowering behind thick walls whose
+purpose is to protect you from what threatens you. Yet what threatens you is a
+fearful projection of your own mind. When you take back your projections,
+ceasing to give them an autonomy they do not possess, they will lose their hold
+over you and you will be free. 
 
-As channels of light you are the living expression of love. This is what you
-are invited to be from now on. You are the souls that have passed through holy
-love. By letting yourselves be traversed by Him, you have been made one with
-Him. By becoming one with Him, you are no longer of the world but have been
-reborn in the spirit of God. You are the anointed ones. You are those who from
-all eternity were chosen in the design to continue the work of creation, that
-is, the endless extension of love. You are those brought into the world to
-bring the living Christ to Earth.  You are the channels of the Second Coming of
-Christ through whom rivers of grace will flow. You are torrents of love,
-blessed clouds that will bring a deluge of blessings, flooding the Earth with
-love and truth. You are the true worshippers of the Father, for you worship Him
-in spirit and truth. You are those to whom the Father of lights says: Come. Be
-my light!
+Nothing can limit your freedom but your own thoughts. They are used to
+construct your prison or they are used to set you free; the choice of how they
+are used is yours and yours alone. It is not necessary to think according to
+what you have been taught by the ego. That is merely habit and is valueless in
+itself. The ego would have you believe that what is true is false, and what is
+false is true. What it teaches is always the opposite of Truth; the ego cannot
+survive in the Presence of Truth so it must always obscure, avoid, deny, or
+contradict what is true. Everything the ego has ever taught you is false and
+will only hurt you. 
 
-Blessed souls! You who are called to be part of the countless channels of
-light, join us, the angels of God. Join with Heaven. Join the love of Mary
-Immaculate. Join the living Christ who lives in you. Extend love to the world
-so that the Son of God returns to find not only faith on Earth but love,
-beauty, and holiness. You are called to be channels of light, the ones who
-prepare the Earth for the Immaculate Heart of Mary. You will plant white
-lilies, roses, and daisies, and the eternal spouse of souls will come to dwell
-among humans. Beloved of Christ, accept this invitation to be a channel of
-light. This is the invitation you have been waiting for since you came into the
-world, created for you as the personification of the purity and holiness of
-God.
+Freedom is the return to Reality. Only there will it be found. The ego is the
+denial of Reality; it does not know freedom for it cannot know that in whose
+presence it will disappear. You need not ask the ego about freedom nor accept
+its ideas about anything. All ideas that arise from ego consciousness make no
+sense and will only mislead you. What else can you expect from a mistake made
+so long ago and then forgotten, though it lives on in your mind as if the past
+were present still? Lay it down my brother, lay your burden down and return to
+life. 
 
-Beloved, blessed souls, hear with perfect clarity! Being that for which you
-have been created is how to live in perfect happiness. Being a channel of
-light is your grace, your destiny and your glory. Although you already know
-this, still you wonder what is your specific function. In this call lies your
-vocation, because extending love is both the reason for your life and the
-fullness of your being. Listen well, beloved of God, as we repeat what your
-heavenly Father tells you from the immeasurable immensity of the created
-universe: Come, my child. Be my light, now and always.
+## Needs
+{: .ui.header.center.aligned}
+
+The needs you perceive are not real. They are part of the dream, and the belief
+that you are in need of anything is itself a fundamental delusion that upholds
+the foundation of the false identity. For what but a body, seemingly fragile
+and requiring constant care and attention, would have needs that must be
+constantly attended to? The illusory needs whose fulfillment takes so much of
+your time and energy, have but one purpose: to distract you from recognizing
+the one and only need you have in the world of separation. 
+
+The return of the memory of God to your awareness is the only need that is
+real. To heal the separation is the purpose of life, the only purpose that is
+meaningful and capable of accomplishment. If you devote your life to awakening
+from the dream, to fulfilling your only need, all your other 'needs' will be
+met. Your Father gave answer to all problems and needs His Son experienced in
+the dream projection once and for all through the creation of the Holy Spirit.
+The Holy Spirit takes God's one Answer and translates It into forms you
+recognize that meet your needs as you perceive them. 
+
+Do not forget that you are not a body. Nothing else will free your mind. Only
+the recognition of what you are not will open the way to experiencing what you
+are in Truth. You are not confined by a physical form unless you choose to be.
+This choice can be undone by choosing once again. 
+
+## Love
+{: .ui.header.center.aligned}
+
+Whatever occupies your mind that is not Love, be it thoughts, feelings,
+beliefs, or memories, must be relinquished to make room for Love. All that is
+not Love must be healed that Love may return and claim its own. Love belongs to
+you and you belong to Love. As *A Course in Miracles* states so simply and
+eloquently, "Teach only Love for that is what you are." If Love is what you are
+and you do not experience Love as it is, then you are not experiencing yourself
+as you are. To be the Self, the Christ, is to be Love only. If you are not
+being Love only, then you are being something other than what you are in Truth.
+This substitute identity has robbed you of your true identity by taking its
+place. However, this was not foisted upon you; it was a decision you made long
+ago, and it remains in effect until you change your mind and choose again. 
+
+What if you let go all fear, renounced fear forever, recognized it for the
+nothingness it is, and decided to feel only the emotion that is real, Love?
+What if you decided to love only, only to love? What would happen? You would be
+free and joy would flood your mind and carry you to God. God is Love and you
+are a part of His Love, a creation of His Love, and you are Love. As a channel
+of His Love and mercy, you have the privilege of bringing Love to a world that
+has denied itself what it needs most. You bring a Love that shines into all the
+dark and secret places hidden in the human mind. Love will illuminate all fear,
+all grievances. It will expose the deep sorrow, and the twisted hates that cast
+their dark shadow across the mind of separation. Love sees all and shines away
+all darkness, all that denies Love, through its beneficent gaze. 
+
+Whenever you are tempted to choose fear over Love, remember what that choice
+has cost you in pain and suffering. It has cost you the Peace of God and the
+knowledge of your true relationship with Him. Would you perpetuate this
+separation or would you repair it? Every choice for fear and attack in any form
+continues the rejection of your Creator and the deep loneliness that has marked
+your life ever since. Do not forget what you are choosing with each decision
+you make: life or death. 
+
+Love will always lead you back to life eternal. It shines away death in all its
+disguises leaving only the One Light. The Love and Light of Your Father is what
+you are. By offering only That and nothing else, you will find there is nothing
+else. God is your Being, your Mind, your Love, and your Life. Never forget this
+for your Father never forgets you. 
+
+Do not underestimate your resistance to Love, for it plays a major role in
+keeping the separation in place. If you would drop all defenses and simply
+love, this world would fall away and you would find yourself in the Presence of
+your Creator. Unfortunately, it is this you fear more than anything in this
+world although this is your only need. 
+
+When you are called upon to love, the ego offers you a distorted version of
+love to take Love's rightful place. The ego teaches that you are unworthy of
+real Love because of your sinful nature. It then teaches you that your brothers
+are likewise guilty. Thus the only basis you share on which Love can be
+established between you is your mutual unworthiness. You and your brother agree
+that since you are both guilty and un-worthy of being loved, your relationship
+will maintain this guilt by never bringing it to conscious awareness. Instead,
+you take turns projecting onto each other in an attempt to keep guilt alive
+without taking responsibility for it. What results is a love/hate dynamic that
+characterizes to some extent most human relationships. If you honestly search
+your mind, you will find that you have grievances towards everyone no matter
+how much you think you love them. 
+
+Such relationships offer you but a parody of what Love is. Yet is there still,
+though masked by the ego's distortions, a kernel of Love's meaning to be found.
+In the honest sharing, the recognition of a true common interest, and the human
+attempt to forgive in good faith, Love is faintly reflected but that is enough.
+All your relationships have the potential to be holy relationships, and that is
+what they must become if you are to know Love again. Through your relationships
+with your brothers, you have the chance to learn forgiveness and true giving. 
+
+## Giving
+{: .ui.header.center.aligned}
+
+Whenever the opportunity arises to give, you must respond for you are always
+giving but to yourself. Every chance to help another by giving is a chance to
+share the gifts of God you have received and thus increase what you have. All
+that is real will only be increased by giving it away; that is why it is given
+you. Do not underestimate the power of your giving. Giving will set you free.
+It is Love that gives; and when your giving has become total, Love will return. 
+
+The ego gives always to get, but the Christ in you gives because it is His
+nature and brings Him joy. You cannot lose by giving truly, by giving from your
+heart. Whatever is given will return to you, albeit in a different form. Your
+store of divine gifts increases with every act of giving. Your Father only
+gives, He never takes. If you would be like Him, and you are like Him, you must
+give everything to everyone. By so doing, you are set free from the ego's
+thought system of fear and sacrifice. To give cannot be a sacrifice if you only
+gain thereby. 
+
+What the ego would have you do is limit giving to only a few and exclude all
+others. Even with these few however, giving is too often a kind of exchange
+where each gives to get. Giving that you may receive something in return is not
+true giving; it is rather a thinly disguised attempt to manipulate each other.
+Love does not manipulate, and all real giving is an expression of Love. Every
+gift truly given always arises from Love and includes Love no matter the form
+or circumstance. 
+
+Whether you should give or not is never the question. Always it is only the
+opportunity to give that is important. You have innumerable occasions every day
+to give to your brothers. A smile, a kind word, a chance to help, the form of
+the gift matters not. You must give and give freely, and you will always
+receive. As you give all you truly have freely to all your brothers, you will
+receive freely from your Father. He is always giving you everything as He did
+in your Creation, but unless you give to all as He does, you cannot accept His
+gifts. 
 

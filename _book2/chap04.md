@@ -1,286 +1,579 @@
 ---
-ref: "4"
-title: "The Fertility of Union"
-subtitle: "A message from Archangel Raphael in unison with the Choir of Angels in the presence of Archangel Gabriel"
+ref: "Chapter Four"
+title: "Decision Making"
 ---
 
-## I. Prelude
+Who is the one who makes decisions for you? Is it the ego, the illusory voice
+of separation, or is it the Holy Spirit Who speaks for God and Truth? Decisions
+are never made alone. They are always made in collaboration with the voice you
+are listening to; they always proceed from and uphold the thought system your
+guide represents. Your decisions stem from the belief in separation and all
+that entails, or they rest on Truth and move you in Its direction. 
 
-Betrothed of the living Christ, today we have come once again, arrayed in the
-glory of the Father. You know us as a multitude of angels of God, like a
-procession of the betrothed who leaves the temple with the hand of her beloved
-after being espoused by Him, her soul’s eternal spouse. This great blessing of
-perfect love we have received and extend to you by the will of God. We come in
-love and truth. In endless joy we unite with your being forever. We thank you
-for accepting our loving presence. We thank you for allowing us to be part of
-the betrothal of your self and the Divine Self that is the source of all being.
+Decisions are always made with the guide you have chosen. Each decision is a
+choice for the ego or the Voice for God. Certainly it does not seem as if you
+are choosing life or death with every decision you make, yet that is exactly
+what you are doing. Your unawareness of this fact affects it not at all.
+Decisions arise from the necessity of choosing between alternatives presented
+you by constantly changing circumstances and events. They are at once both a
+response and an attempt to control the chaos of life and make it manageable.
+Decisions made with the ego’s help are themselves an expression of chaos. They
+are an attempt to manage chaos by introducing more chaos. This will obviously
+lead to the continuation of chaos and strengthen the need to manage and control
+it. Chaos does not need to be controlled; it needs to be recognized as
+nothingness. 
 
-Your spiritual marriage has already taken place; know it and accept it.
-Understand this well because of the false interpretations that may linger in
-your mind. All are called to spiritual betrothal. This is nothing peculiar.
-Understand clearly that betrothal means a union in fertility, a union in which
-one always lives. Everything exists in union. And every union is fruitful in
-some way. Your union with God, the union of your being with the love that you
-truly are, is no exception.
+If you turn over decision making to the Holy Spirit, He will guide you out of
+chaos. You need not live in that condition though your feet still walk the
+earth. Through the recognition of Truth and the undoing of false mind, you may
+transcend its effects and live in a state of Grace where that which lies beyond
+illusion becomes available to you. How do you live surrounded by the chaos of
+separation, yet be unaffected by it? Live in a state of true consciousness with
+Love as your guiding Light, and all darkness will be shined away until you see
+the Truth reflected everywhere. 
 
-Just as we explained creation in seven stages or phases, so do we explain the
-evolution of consciousness as seven phases of the soul, or seven abodes of
-love. Although symbolic, it helps to understand this history, this movement.
+## What You Have
+{: .ui.header.center.aligned}
 
-There is a time for everything, even outside of time. This is not something
-that can be fully understood when the mind and heart are still limited by
-conditioned thinking. But every mind that has transcended the ego can
-understand it —and that includes every mind that has come this far and that by
-the design of its heart and its creator has decided to accept these words.
-These minds understand that word-symbols simply point to an end. These minds
-have already been able to integrate form with the formless. Such integration is
-what we have come to speak of today: an integration that will help you
-comprehend to a greater degree the state of union, of betrothal, that lives in
-your souls. And you will know more fully how God loves you and the ineffable
-beauty of the soul’s love for its Creator. Such is the love of which we speak:
-the love of God for the pure soul, and its reciprocation.
+If the good you do lives on, do you not want to do good always? By the good we
+mean that which helps, supports, heals, and inspires in the most positive way.
+By doing good always, by helping everyone everywhere, you are helping yourself
+in the best possible way. Everything you give to your brothers is also your
+gift to yourself. This is the real meaning of the expression “Virtue is its own
+reward.” To do good, to act rightly, to be virtuous, is always in your own best
+interest. You only gain thereby and never do you lose. 
 
-## II. The Degrees of Union
+The ego would have you believe that your interest and that of your brothers is
+not the same, that what is gained by one is lost to the other. The ego believes
+in a world of scarcity where there is never enough for everyone. Competition is
+the law and you must struggle to get what you need, wresting it from another if
+necessary. This view, if accepted, leaves you no choice but to operate in a
+climate of fear and suspicion where conflict is the rule and safety is found
+only through isolation. The world you see around you is the result of the
+identification with the ego’s perspective. Only suffering will follow those who
+live from this lack of understanding. 
 
-Everything that exists must exist in union. This is always true and must be
-understood at all levels. Even at the level at which time seemed to be for the
-purpose separation or the loss of conscious union with God, everything was
-still unified, since nothing can exist outside of unity. Joining the ego was an
-option, and it paid off with dark and sad fruit. What else could have been
-generated in a union like that?  Joining the ego was a joining with something
-that was not the truth of your nature, but nevertheless, you united with it and
-you fathered a child.
+The Holy Spirit teaches that you already have everything you need because you
+are everything. In Truth, having and being are the same. You have what you are
+and you are what you have. In the world of separation, He translates this Law
+of God into the forms that meet the needs you perceive. You believe your needs
+are many and different, so God’s one Answer appears to take many forms to
+fulfill them. All is but illusion, yet as long as God’s Son believes illusions
+real, He must be provided help in a form He can recognize. 
 
-Fear breeds fear just as love creates new love. You join human nature with
-human law. This union begot the world. Joining the world is an available
-option. Just as you can join this or that group and with it join their values,
-laws, norms, and systems of thought and organization, thus it happens with any
-union. In union you become one with what you join. Likewise, in love you become
-one with the beloved. You always become one with what you love.
+If you remember your Father, and devote your life to realizing your true
+purpose, you will never suffer from lack. What is needed will be provided. This
+does not mean however, you will always have what you want. The egoically
+identified mind is habitually preoccupied with getting and achieving. Much if
+not most of what it desires is not needed in any real sense. What is not
+necessary for life or helpful to your real purpose, will not be provided by the
+Holy Spirit. All that is merely distraction or self destructive can only hurt
+you and delay fulfillment. Yet can you succeed in obtaining what you desire
+strongly enough through the misuse of your energy and intent, but you will
+never gain by doing so. 
 
-Can you join with what makes you suffer? Oh, yes, of course; you know this very
-well. Can you join with what is foreign to your nature? Oh, yes, to a certain
-extent, and that will engender a brokenness in which there will be neither
-beauty, nor peace, nor harmony, because it is contrary to your nature. It will
-be a temporary fertility. Such fruit is destined to vanish because it does not
-have the necessary elements that allow it to be preserved. Moreover, it will be
-fruitless, sterile. Obviously this is not true union, but we will take up this
-distinction between true union and false union later. What is important to
-realize now is that all union produces effects. In your freedom you are free to
-join love or join what is loveless. You can join anything you wish, but you are
-not free not to join. We shall expand upon this.
+## Mind and Time
+{: .ui.header.center.aligned}
 
-Just as we speak of levels of creation, or of a higher level and a lower level,
-or a corporal level and a spiritual level, we must understand union similarly.
-At the level of the body—and this includes the physical as well as what you
-call the psychic—that is, at the level of the humanity that you think you are,
-unions exist even if they are imperfect and incomplete. They are, never-
-theless, unions. It would be unworthy and useless to deny such unions, since
-every union, incomplete or not, contains a desire for unity which arises from a
-true impulse for union. This desire comes from the simple fact of being, and it
-always happens within pairs. This is why in nature you can clearly see the
-union between the members of the same species. What is like your being will
-join with you because of what you are and what it is. If well understood, this
-law of attraction is the law of creation. Just as two droplets of mercury are
-attracted and unite to form a single drop, so does the soul and that which is
-similar to it, be it in truth or illusion.
+You do not recognize what will help and what will hurt you because you do not
+know the difference between Truth and illusion. This will be learned of the
+Holy Spirit if you are willing to be shown the extent of your ignorance, that
+your mind be purified of what is false to make room for what is true. Illusion
+will always hurt you whether recognized or not. Being the replacement for
+Truth, it can only bring disaster. To lose the awareness of Truth is disaster,
+for all your problems arise from it. 
 
-The levels or phases of creation or being, constitute an evolutionary path.
-The journey of the soul exists. You have been journeying as an individual and
-as a collective along a continuum of evolution of consciousness from
-unconsciousness, or separation, towards consciousness, or union. The initial
-phase of that state of union is a union of integrity, in which the being holds
-together within itself all that constitutes its true being. Then you pass to a
-state of union of betrothal, or fruitful union, wherein you no longer only
-recognize the unity with all that you are and with all that is, but you
-unite—as a constituent part of who you are—with the spirit of love in a
-fruitful union that engenders in you the living Christ. You then go one step
-further and join the essence of the universal motherhood of love, from which,
-in union with God, you eternally give birth to new love. It is only when you
-reach this state or level that you eternally extend the love that God is in a
-conscious way. This is true extension: the perpetual creation of new love,
-creating love; creating love, you keep creating love. This is true creation.
+When the wish to be what you are not replaced the knowledge of what you are,
+suffering became possible in your experience though not in Truth. Existence
+became a dream, a projection of separation from all that is real. To be
+separate from Reality Itself is suffering, though that fact goes unrecognized.
+The mind asleep and dreaming a world of form and activity does not realize the
+condition it is in; the deep pain of separation from God has been banished from
+awareness. All things of which the mind is afraid have been dissociated from
+conscious awareness, all memories of suffering hidden deep in the unconscious
+mind. 
 
-## III. Integrity and Union
+You cannot escape from what has been allowed to enter your mind by pretending
+it is not there. Only the decision to heal, to release it, will free you from
+the past you carry still. The past is always with you, although it is over.
+Held in memory by the refusal to let it go, it affects you still. Everything
+that enters the mind remains, for it is there by your invitation and decision
+until you decide again. To free the mind of the entire past in every sense of
+the word, is the purpose of the mind training. 
 
-Now that we have recognized that all union produces fruit of some kind, we will
-speak of the fertility of union. You understand that union means your joining
-everything you are, everything that is true of you. You know that your being is
-unified and whole. From that integrity of being you can recognize what you
-really are and act as God would have you to act according to His divine plan of
-love, not as you think you should act according to laws that are not in accord
-with your true nature. You were never called to join anything external; that is
-not possible. And therein lies your difficulty. What you have believed in, but
-will not believe much longer, is that to unite means to join “something.” You
-seek to add rather than to unite. Until now you thought you could unite
-intimately with what is external, rather than with what you are. Today we give
-thanks to the spirit of wisdom for this grace of Heaven, blessing us with the
-truth and freeing us from the mistake of believing that union can consist of
-joining with anything external— indeed, the error of believing that there is
-anything external to yourself. The error is adding instead of remaining in
-union; the error is not understanding that unity refers to that which is
-indivisible.
+To free yourself of the past you carry still, you must be willing to let it go.
+This seems like an obvious statement, too self-evident to need repeating, yet
+the past has a much greater hold on you than you realize. The self image, the
+identity you have given yourself, is an artifact of the past. It lives only in
+the past and seems to be who you are now only through memory, through reliving
+the moment of separation every moment of every day. To successfully release the
+past is to lose the self you have believed in for so long. To the mind long
+accustomed to identifying with the body and the sense of separation that is the
+ego, this seems to be annihilation. You fear this more than death. Yet is death
+only of the self. Give up the self and death will vanish from your mind
+forever. The old must pass away, must be expelled from present awareness
+through the relinquishment of the past. Only then can you be reborn as the
+Christ, the Holy Son of God. 
 
-Since we are now ready to accept that we become one with that to which we
-unite, we must further understand that if we join with that which has no
-meaning, then it must be because we somehow believe we do not have meaning
-ourselves. We believe ourselves to be insignificant. But if we know that we are
-one with God and have already returned to truth, what else can be the object of
-our longing but for God Himself? My beloved, you could never join anything less
-than God and be happy because your nature and God’s are the same. You could
-never lower yourself to anything below God and still feel whole. The infinite
-beauty of the pure love that God is, is your likeness. It always has been.
-Listening to a loveless voice is so alien to your nature that it is incredible
-that you have been able to do so at all. Poor is the fish out of the water; it
-can neither breathe nor move freely. You cannot live outside the element that
-you were created to live in. You cannot live outside of love. God’s sons and
-daughters! Love is your nature, your sustenance, your food, the air that
-breathes your soul, the source of living water in which your being is imbued.
-Love is the atmosphere in which your being lives. Love is the wisdom that flows
-through all you are. Love is your home. Love is the life of your soul. The soul
-itself is love.
+Only the Christ in you is real, just as the present is the only moment of time
+that is real. Time and eternity intersect in the present, and the Christ waits
+for you there. He is always with you, waiting for your willingness to let Him
+back into the mind that is His. Never has He left; He cannot, for your mind and
+being are part of His. If that were not so, you would not exist. 
 
-Remember, daughters and sons of truth, that the love we are talking about is
-not what the world calls love. We do not speak of the uncreated truth of a
-specific love that loves some and never everyone. Nor speak we of a love that
-makes the lover and the beloved special. Nor of a love that separates rather
-than unites, nor of a love that today is and tomorrow is gone, nor of a love
-that arises from fear and disguises itself as love but is really a desire to be
-special. Rather we speak of God’s love for you, and you for Him. We speak of an
-eternal love with no beginning or end, a love that gives origin and meaning to
-everything that exists, a love that eternally creates new love.
+## The Nature of the Ego
+{: .ui.header.center.aligned}
 
-The power of this divine love surpasses all human measurement. Now we rise
-above the mountaintop to which human reasoning could take us and let the truth
-itself lift us up in flight, because that is the nature of truth. Now we
-stretch our thoughts further, beyond mental limitations. Now we let truth
-itself take us to heights of holiness where human thought cannot reach, where
-nothing imperfect can reach. There, only the sweetness of love dwells, the
-tenderness of God reigns, and Christ and your being are one eternally. Light is
-born.
+The nature of the ego is to keep everything it finds valuable or useful for
+itself. It shares grudgingly and gives only to get. The ego sees the world from
+a position of scarcity; it believes that everything it wants, it must fight
+for. Conflict and competition are its approach to life, and never is sharing
+regarded as gain. For the ego to gain, must another lose. If you follow the
+ego’s thought system, you are opposing God’s laws with everything you do. Thus
+are you guaranteed suffering and loss; and conflict and sorrow will be the
+conditions under which you live. No other outcome is possible if you choose to
+follow the guide who leads you into fear and pain. 
 
-## IV. Free Will and Union
+What if you were to throw caution to the winds? To be cautious means to proceed
+slowly, examining things very closely and carefully before making a decision.
+This is the essence of the human condition, is it not? To judge, to weigh, to
+consider, to analyze, is how human life proceeds. Or to react, to act blindly,
+following impulses arising from habit, from addictions, from whatever
+particular distortions animate the mind. Human life fluctuates between these
+extremes, varying according to the individual’s disposition and changing events
+and circumstances. 
 
-Begin to remember the irresistible force of love. Begin to remember, now, the
-strength of the pure love that embraces the universe. Begin to remember how
-attractive is God’s power. Stay with those memories. Carry them in the
-silence of your heart. Become one with them. Join with the power of love.
-Fulfill yourself in it. Let its immeasurable, unfathomable force penetrate
-you and transform your mind and heart with the ecstasy of peace and truth. Let
-the light of truth flood your being. Become one with God. Let yourself be born
-into the true union of love.
+The ego is itself a chaotic arrangement, feeling itself under constant threat,
+unaware of where it came from or where it is going. To try to control what
+happens to assure a favorable outcome makes perfect sense to the ego. By so
+doing it believes it can keep away what threatens it and assure its safety. The
+ego also tries to maximize what pleases it and avoid entirely or minimize what
+it does not like. And it will always try to avoid pain and discomfort and
+escape from fear. 
 
-Betrothed of Christ, the love of a pure soul for the Creator, like the love of
-God for the soul, is so irresistible that even a mad ego could never erase it.
-For a pure soul, the attraction of Christ is incomparable. Its power is
-indescribable, for it is the creative life energy that sustains all creation in
-both motion and unity. In its essence, the power of Christ’s love for you,
-compared to atomic energy that binds the elements of an atom, is like a
-hurricane to a tiny breeze.
+If you do the ego’s bidding; if you identify yourself as a body in separation
+and accept the thought system that underlies this error, you will be subject to
+the constant movement of fear. Where fear rules the mind, peace is absent. Fear
+will always bring conflict in its wake; attack and defense will characterize
+your life and guide your decisions. The ego is fearful of everyone and
+everything. It carries the memory of that fearful moment when it arose as your
+response to what you did not understand. The state of separation is inherently
+fearful because what is separate from you, you do not understand. And what you
+do not understand, you fear. That which you do not understand must be defended
+against, for it is untrustworthy. All things that appear separate are regarded
+with suspicion. 
 
-Once again we turn to scientists to help you understand. Just as the nucleus of
-an atom attracts to itself the elements of which it is composed, so the love of
-Christ draws the whole of creation toward God. God is the center of the created
-universe. Christ is the force of God’s love that holds creation together,
-drawing all to the heart of God. The Holy Spirit is the force that gives move-
-ment to all that is in Christ. Scientists recognize a force that holds together
-its essence, which is analogous to the truth of who you are and what creation
-is. Thus quantum physics recognizes an invisible power that holds all matter,
-yet lets each part be what it is. So is it with you.
+Trust is impossible to find in such a world, reserved for those who have
+‘proved’ themselves worthy; even then it can be withdrawn if you feel your
+trust has been betrayed. The ego’s trust is always given conditionally and
+jealously guarded that it may withdrawn at any time. No one can be trusted
+completely in the ego’s view, for the trusted one may suddenly turn and attack.
+The ego cannot but project its own untrustworthiness and ever-readiness to
+attack onto others, for what is believed inwardly is always projected and
+perceived as if outside of you. 
 
-The love of Christ for his beloved keeps her eternally, indivisibly united.
-The pure soul cannot be separated from the heart of God. They are one. This is
-why you have been called “an atom of God.” Yet although everything is united,
-there are degrees of union. Not everything within an atom is joined with the
-same degree of closeness. Likewise is it in the design of the physical
-universe. There is a center, and everything revolves in different degrees of
-closeness to that center, remaining united while in motion within the totality.
-Similarly one body can to greater or lesser degrees join another, or rather,
-other selves. This is the case with all union.
+## Trust
+{: .ui.header.center.aligned}
 
-The degree of union that you choose to have with the truth is what constitutes
-your “free will.” That you are far from love does not make you separate from
-it; rather, you live remotely to love. Said in a humanly understandable way, in
-a family there are many types of children. Some are closer to their parents and
-to the family as a whole than others. But all are still children of the same
-family. This cannot be changed. The filiation may be denied, there may be great
-distance, but one cannot nullify the truth of a family. Likewise you may join
-the love that you are as closely as you want, but you can never be completely
-separate from it.
+Trust can only be given to what is true and unchanging. You can trust God and
+His Creation which is what you are. Nothing else is worthy of your trust though
+you need not fear it. Would you place your trust in the shifting sands of
+appearances, in circumstances that are inherently unstable? Nothing in the
+world of appearances can be trusted. That is not where you should place your
+trust. Trust in God and His Answer to the separation, and the circumstances of
+physical life will be adjusted accordingly. The biblical injunction to seek
+first the Kingdom of God and all these things shall be added unto you, is true
+in the literal sense. Put your trust in God, allow the healing of your mind,
+give up the denial of and defense against the Truth, and God’s Blessings will
+rain upon you. God’s Gifts, which are not of this world, will be translated by
+the Holy Spirit into the physical conditions necessary for human life. Do not
+interfere with your Father’s giving and you will receive what you need. 
 
-## V. Fertile Union
+To receive what you need is to recognize what you already have and to accept
+it. Your Father gave you everything in your creation. You lack nothing, yet you
+believe in a world of scarcity and so is lack then a part of your experience.
+To recognize that all you have comes from God and to accept that fact, frees
+your mind and allows the Holy Spirit to provide what you need at all times and
+in all circumstances. Nothing else need be done, for there is indeed nothing to
+be done other than to recognize your complete dependence on God and surrender
+to that Truth. 
 
-We speak now not of a filial union but a fruitful union: the union in which, in
-the way of bodies, is the union of spouses, a union that produces life.  A new
-being is created from that union. Mere contact with something or someone is
-not real joining. There may be a degree of union or disunion. What is truly
-united remains indivisible. It has an integrity that cannot disintegrate.
-Creation, and with it your being, is an undivided unity with God, seamless,
-without fissures of any kind.
+## Truth
+{: .ui.header.center.aligned}
 
-We no longer speak of a union where Jesus Christ is your father or your
-teacher, or where Mary is your mother or your co-redeemer. Now we speak of your
-unity with God. “God and I are one” is said in spirit and in truth.
+The recognition of Truth and your relationship to It, even in a world of
+separation, will set your mind on the path to freedom and true Self
+fulfillment. Life must take place in the context of right relationship to what
+is true and what is false to be meaningful. The great problem of this world, to
+find meaning amid meaninglessness, purpose among the purposeless, fulfillment
+in the midst of the unfulfilled, can only be solved through commitment to
+living a life of service to Truth. To serve the Truth is to accept your part in
+the Great Plan of Atonement, and do your best to complete it. By doing this,
+you become a source of Light and blessing in a world badly in need of both. We
+stand together, all who have made that commitment, in the Light and Love of
+God, as one endless chain of Grace and healing that circles the entire world
+and reaches all the way back to Heaven. There is no place where God’s Grace is
+not for those whose hearts are open to receive It, and by this receiving to
+share It with their brothers. 
 
-Now we speak of Christ as the soul’s husband, a husband who impregnates the
-soul and gives the seeds of a child. The wife accepts, is fertilized, and gives
-Christ a child. A new being is created in her and through her. That created
-being, the fruit of the union between Christ and the soul—you—is the inevitable
-result of union with God. In this union, the husband brings his love to the
-spouse, and the spouse receives it with love and gratitude. When that reception
-is completed, the seed that the husband planted in the spouse—in the garden of
-Eden—carries within itself all that the husband is, and becomes one with all
-that the spouse is. In this union is the creation of a new being that carries
-within itself everything of both, not one or the other, but a third something,
-equal in nature.
+What is given to one is given to all, and what truly belongs to one heart
+extends to all hearts. How can that which is One be contained? All are included
+within Its beneficence. Limitless and forever extending, God’s Love is always
+available. There is nowhere It cannot be found. Yet you must meet Its
+conditions, for in a world of separate bodies, Love has been replaced by fear. 
 
-The love of Christ, together with the love of the soul, creates new love. The
-union of bodies is not true union; incomplete, never eternal, it cannot create
-anew as can a spiritual union. If two fertile bodies unite, they will create a
-new body. Corporal creates corporal. When love joins with love, new love is
-created. When truth joins with truth, new truth is created. When beauty joins
-with beauty, new beauty is created. Likewise when your mind joins the mind of
-Christ, it will conceive thoughts like those of Christ. When your heart joins
-the heart of God, it will conceive loving feelings as God conceives them.
+## Peace
+{: .ui.header.center.aligned}
 
-Only in joining does fertile love create life. Creation is an act of communion.
-For your soul to be fertile, it must be fertilized. And in order to be
-fertilized, you must allow yourself to be impregnated. If you are a mother,
-and I assure you that as pure souls you are mothers, then there has to be a way
-for your motherhood to be, for the pure potentiality of your motherhood to be
-fulfilled. There is that in you that has the power of divine fertility. When it
-becomes fulfilled, even though it is but part of your true self, it creates a
-new love. Together, the masculine and the feminine in you create a fruitful
-union. The Christ in you, and you, create a fruitful union. Your personal self
-and your Divine Self create a fruitful union. What you are and love create a
-fruitful union. This is the great difference between the fecundity of bodies
-and that of spirit.
+Fear maintains a stranglehold on the mind that has identified itself with a
+body, with separation. Life as a bodily identity sees threats everywhere it
+looks. Surrounded by enemies waiting for the opportune moment to strike, it
+cannot but be fearful in the face of constant danger. If you identify with the
+body, with the sense of separation that is the ego’s partial and distorted
+perception, fear will be your chosen companion and never will you find peace.
+The presence of fear will always engender conflict and drive peace from your
+mind. 
 
-God conceived the soul eternally to be the pure potentiality of abundant love.
-That is, the soul possesses within itself all that, united, engenders life. You
-might call it the masculine and the divine of the soul, but whatever you call
-it, they are, together, your totality. If you gather and hold all those parts
-of yourself in the embrace of love, love will fertilize your being and create
-new life. That is what union does. You need not know how it happens, just as
-you need not know the countless biological realities that make it possible for
-bodies, by joining another, to beget sons and daughters. The only thing needed
-for conception is union. Likewise, all you need do is to let Christ deposit
-in your soul the seed of perfect love. All you need do is to let yourself love
-and receive the love of God.
+Peace need not be absent from your awareness and will not be unless you value
+what has taken its place. The world offers you many gifts whose purpose is to
+take the place of peace. Do not accept the worthless offerings of the ego whose
+only goal is conflict. The ego does not know peace and will never accept it. 
 
-It is in the reception of divine love with absolute gratitude, serenity, and
-openness of heart, that true union takes place and virginal conception occurs.
-But you must divest yourself of all fear of not being. You must understand—and
-you are ready to understand—that in this union you lose nothing. You do not
-lose your being, either totally or partially. You are neither less nor more.
-You simply are what you are because this union is a union of your whole self,
-not a joining with anything external. You meet with everything you truly are,
-and in that meeting love imbues your whole being. Truly, this is loving
-yourself unconditionally. By loving yourself unconditionally in Christ, the
-fruitful part of yourself creates a new love. You have moved from the sterility
-of separation to the fertility of love. To love God above all things is, in
-truth, to love yourself.
+To commit yourself to peace is to turn your back on the ego in every way. You
+cannot identify yourself with the ego without choosing conflict as a way of
+life however that may be disguised. Let conflict go, banish it from your mind,
+and peace will prevail. Choose conflict, cherish attack in any form, and the
+chaos of war will obscure your natural state and peace will vanish. 
 
-Let yourself be loved. You will see. Above all, remember that you are an atom
-of God—the undivided unity of love.
+There is no need to strive for peace. Like Love, it will be there when you have
+allowed all that obstructs your awareness of it to be healed. When the mind has
+been cleared of all attachment to conflict, of all need to defend and attack,
+peace will shine forth as your natural state. If you do not resist the Holy
+Spirit in His work of correcting and healing your mind, you will be speedily
+returned to the condition in which God is remembered. 
+
+## Understanding Mind
+{: .ui.header.center.aligned}
+
+Resistance to the Holy Spirit in the form of refusing to turn over decision
+making to the One Who knows, is why the transformation of mind seems to take
+forever. The mind is split. It contains conflicting and contradictory desires
+that literally obstruct and make impossible a return to Wholeness. Integration
+precedes Wholeness and makes it possible for the mind to recover its natural
+state. Integration of the mind replaces the conflicting desires and cross
+purposes with a single purpose, one that is true and capable of accomplishment.
+For those who seriously want to realize the Wholeness of Mind, the process
+starts with the practice of integration. To become aware of desire in all its
+forms that drive the mind, is the first step you must take. Without being aware
+of how and why the mind is as it is, you cannot begin to correct it. Present
+awareness, moment by moment, is the way to see your mind in action, to directly
+experience and become aware of the dynamics and movement of mind in your day to
+day life. Mind must be understood as it is, in its activity. It cannot be
+reduced to theory or description. Mind is alive and always active. 
+
+Through becoming aware of your mind in action, you can choose where you want it
+to go. You can direct it towards Truth, towards liberation, or you can continue
+to let the past play out its stale repetition of nothingness until you tire of
+it or death intervenes. As you become more and more aware of the activity of
+your mind, you will begin to understand how your thinking and your reactions,
+which are determined by your thinking, are responsible for the conditions and
+circumstances of your life. You will see how you are choosing happiness or
+conflict, Love or fear, with every decision you are making. When this becomes
+so consistently clear that it can no longer be denied; when you can no longer
+hide from what is in your mind and your responsibility for it; when self
+awareness becomes the way you live, then choosing begins to become consistent,
+for only what is true will attract you. 
+
+## His Gifts
+{: .ui.header.center.aligned}
+
+Whatever you need will be given you when you turn your life over to the higher
+purpose. By accepting God’s purpose as your own, you stop obstructing the flow
+of His Gifts into your life. When your will is not exercised in opposition to
+His, the way is open to receive His Gifts rather than deny Them. They are
+always available to His children but they must be accepted first. The mind
+focused on the shabby offerings of the ego, on the hollow honors and
+attainments the world bestows, is not open to receive. “Seek ye first the
+Kingdom” is the admonition to direct your mind and efforts towards that which
+is truly valuable and worthy of having. When you do so, what you need in the
+worldly sense will also be given. The Holy Spirit knows what you need and will
+provide it if you do your part to make yourself available to receive. 
+
+The great error that prevents this availability is the belief that you need to
+decide by yourself. Thereby do you impose another will between yourself and
+God, and while you believe such a thing is possible, your opposition to your
+Father will effectively exclude His help. God does not and has not abandoned
+His children; His children have abandoned Him. You cannot receive that which
+you are actively opposing. Refusal will always prevent reception. 
+
+## The Defense Against God
+{: .ui.header.center.aligned}
+
+The need to defend yourself against the return of God’s Presence to your
+awareness, is the reason behind the endless ‘busyness’ of the human mind. If
+you were to let go of all defenses against Him, your Father would reach down
+and lift you up. He cannot do so however, while you are actively resisting and
+denying Him. God remains with His Creation, it cannot be otherwise. Yet can the
+Son of God lose communication with his Father through the belief in an alien
+will. You cannot hold in your awareness what you fear and oppose. You will
+dissociate yourself from it, driving it from your mind and replacing it with
+what is an effective defense against its return. 
+
+There never will be a violation of your free will, for it was given you by God
+in your creation. God does not contradict Himself or violate His own Laws.
+Neither can anyone or anything else. His Laws were established for your
+protection and upheld by His Will which never changes. The responsibility for
+the condition of your mind, for what it includes and what it excludes, is yours
+and yours only. Your decisions, your choices, determine what lives in your
+awareness or slumbers in the depths of the unconscious. Once a decision has
+been made, it remains in effect until you revisit it and choose again. It
+matters not whether the decision was made long ago or yesterday. All of the
+mind’s decisions are final until changed or corrected. 
+
+Whatever you truly desire with all your heart and mind will be given you
+without delay. “Love the Lord thy God with all thy heart and all thy mind and
+all thy soul,” was the great law I expressed as reported in the Bible. This was
+the admonition to turn completely towards your Father without ambivalence, to
+desire only what is true, eternal, unchanging, and completely valuable. The
+vacillation between desiring only Truth or being attracted to illusion,
+prevents the acceptance of Truth now in Its completeness. A partial and erratic
+commitment will bring about inconsistent results. 
+
+## What Limits Mind
+{: .ui.header.center.aligned}
+
+The mind of separation, the perceptual mind, suffers from a split identity.
+This divides the energy of mind, weakening it, and destroys clarity. The
+motivation of such a mind is ambivalent and contradictory. Confusion prevails
+as long as conflicting desires, impulses, and goals dominate thinking and
+behavior. The mind is pulled in different directions, first this way and then
+that way. Each desire or impulse that arises takes the place of the one that
+preceded it. Thus is the mind in a state of constant agitation, chasing the
+shadows that flit across its surface, taking them to be real. While all your
+energy is used to perpetuate illusion, your mind will remain in bondage to what
+it made so long ago. The self made chains that bind you will not fall away
+while you are continually reinforcing them. Reinforcing faulty learning will
+not correct it. Faulty learning will not leave the mind that welcomed and
+cherished it as long as you are satisfied with the results of your thinking. 
+
+Until you recognize the cause of your suffering, you will not be willing to
+change your mind, to alter your thinking. To do so requires an honesty and a
+clarity you do not as of yet possess. It can be and must be developed however,
+if you would be free of suffering. The Holy Spirit will gently show you the
+true condition of your mind, of your life, if you will trust Him. He will help
+you become aware of all that you hide from yourself that you may see your mind
+as it is, not as you imagine it to be. 
+
+Whenever you choose what you do not realize will hurt you, you are being
+complicit in your own destruction. Suffering is not possible without your
+consent and active compliance with its conditions. Your lack of awareness of
+the part you play in bringing about the suffering in your life, keeps you
+prisoner to what you would escape. To be unaware of what shapes your life and
+determines its course and conditions, is to be as a leaf blown about by the
+shifting winds, landing for a moment it knows not where, then off again with
+every passing breeze. You are helpless in the face of what you do not know or
+understand. 
+
+The mind functions in a consistent way; this is determined by habits of thought
+and feeling and the beliefs that underlie them. Many beliefs are unconscious.
+You are unaware of them and the role they play in driving your thinking and
+controlling your behavior. They are not open to question or correction yet play
+an important role in your decisions. 
+
+The falsity in your mind cripples your understanding and limits your happiness.
+Everything that you believe is based on the past and does not serve you now.
+Unless you raise to question all that you believe, it cannot be corrected and
+replaced by true ideas. All that is false, untrue, yet living in your mind,
+must be undone to make room for Truth. There is nothing that cannot be done
+when the mind has been returned to Truth. 
+
+The mind in its natural state understands what is needed and what is
+unnecessary. What is true and what is false is easily recognized when you have
+allowed the Holy Spirit to guide you through the process of learning the
+difference between them. Your mind carries much within it in the form of old
+ideas, beliefs, values, and judgments. This past baggage will gradually be
+lifted from your mind, leaving it clean and empty, a fit vessel to receive the
+Truth. 
+
+There is a way to tell always what is needed and helpful and what must be
+discarded and left behind. That which leaves you in a state of peace, of love,
+of happiness, is to be accepted into your mind and cherished. All thoughts and
+feelings, all reactions that pull you away from the natural state of freedom,
+are to be corrected. Thus is your mind returned to Truth and Truth only. When
+only Love remains, God will return to your awareness. 
+
+## Maintain Separation
+{: .ui.header.center.aligned}
+
+Without constant and consistent effort, separation cannot be maintained for it
+is an unnatural state and therefore inherently unstable. Although separation is
+all you know, that does not mean it is your natural condition. You have
+forgotten who you are long ago and its memory is now beyond your reach. What is
+completely unnatural and unthinkable in your true state, has now become
+‘normal’ and beyond question. The ego cannot allow you to question the reality
+of your experience under its guidance, for its carefully constructed picture of
+reality cannot stand up to careful scrutiny. 
+
+Without your consent, the picture of reality in separation will crumble into
+the nothingness it has always been. Only the abdication of responsibility for
+what you see and experience allows the ego to maintain the fiction that you are
+the effect of the world and not its cause. Thus are you the victim of what
+seems to happen to you and are not responsible for it. There are two ‘logical’
+conclusions that arise from this view. First is the belief you are helpless in
+the face of what occurs, and thus you must protect yourself from the world.
+This perspective makes certain that fear is maintained in your mind which
+justifies the need to defend and attack. And you are thereby relieved of
+responsibility for your attacks on your brothers and unaffected by what you do
+to them. 
+
+The whole edifice of guilt, sin and attack, rests on the belief that you are
+not responsible for what happens in your life. This unquestioned assumption
+enables the entire belief system of separation to be maintained, and ensures
+the continuation of the ego’s role as your guide to decision making. It is
+vitally important to take back the responsibility for your life in every
+detail. In this decision is the invitation given to the Holy Spirit to offer
+you an alternative to the ego’s thought system. 
+
+The guide you choose to follow in your decision making determines the kind of
+life you will have. The ego’s guidance will lead you down many different paths,
+each with its own experiences and goals, for this is a world of apparent
+differences and varying outcomes. Yet are they all the same in one important
+way: no matter what happens, none of it is real. To chase illusions, to choose
+illusory goals, is to go nowhere; and to go nowhere is to waste the precious
+gift of life. 
+
+## Unfulfillment
+{: .ui.header.center.aligned}
+
+There is no condition in this world that is wholly satisfying and complete. All
+conditions and circumstances here are temporary, incomplete, and incapable of
+bringing you real fulfillment. How can that which is partial and changeable, as
+are all experiences of this world, ever bring lasting or deep satisfaction to
+the one who is whole, complete, and changeless? Nothing less than the return to
+Wholeness will ever satisfy you wholly. 
+
+The partial and limited nature of the ego self is a self-imposed limitation on
+your experience of yourself. To deny your Wholeness, which is the purpose of
+the worldly identity, will only bring you unhappiness and suffering. Your
+identity in separation is the root cause of all your suffering for it is the
+fact of separation from God that is fear and suffering itself. This fact is
+simply replicated in many different forms, yet is every form of suffering
+simply an expression of the condition of separation. Separation from God, from
+your Creator, is your one and only problem, the root cause and source of all
+perceived suffering, lack, and limitation. 
+
+When the egoic identity fails to satisfy you; when you began to recognize the
+inherent futility of being a body in ceaseless pursuit of satisfaction, the
+mind will began to open in a new direction. The honest recognition of the lack
+of meaning and fulfillment in your life, will inspire you to question deeply
+how you live and why. If you seize this moment, this opportunity, refusing to
+go back to sleep, the possibility will open before you to find another way to
+live, a way that is meaningful and true. This is the beginning of the journey
+back to your real home in God. 
+
+## The Desire for Truth
+{: .ui.header.center.aligned}
+
+What can bring you lasting peace and hope of healing all that brings you pain
+and suffering but yourself? There is no cause of pain and suffering outside
+your mind, and the solution must be where the cause is. You are both the
+problem and the solution. Nowhere else can they be found. The world is but your
+attempt to obscure this fact, and keep the idea of sin and guilt alive that
+they be seen as if outside of you. If you realize no one but you can affect you
+in any way, the appearances of guilt and sin you see all around you collapse
+into the nothingness they have always been. Only your mind can affect you and
+determine the condition you are in, even in this world. All power is given unto
+you but you have misused it to miscreate hell and turn you back on Heaven.
+However, you can turn your back on hell and return to Heaven anytime you
+choose. Everyone will make this choice in time so why wait? To wait is to
+prolong the time of needless suffering. You can begin the journey home right
+now in this present moment. All that is required is the sincere desire to do
+so. The Holy Spirit will respond to all sincere aspirations for Truth. 
+
+The only requirement for Truth is a sincere desire to attain it. Given this
+desire, willingness will develop over time. The willingness to heal the mind of
+all that obstructs Truth, the willingness to meet Its conditions, will grow and
+strengthen and carry you home. Your home has been waiting for your return since
+time began, and it will wait until time is no more and all waiting ended. There
+is no waiting in Heaven for waiting is of time and Truth knows only the eternal
+now. 
+
+While you dream of time and change and things not yet come, your true home will
+be unknown to you; waiting for a future still to come will seem to be a fact of
+your experience. Your return does not wait on time but on your readiness. In
+any one moment you can be lifted up, and time will be left behind forever. What
+is left behind is only what is no longer needed. You must learn to travel
+light, to lay down the heavy burden of unnecessary thought, of limiting and
+false beliefs. These serve only to weigh the mind down and obscure its natural
+freedom. There is no way to fly if you are weighed down by the heavy burden you
+have carried for so long. The mind’s natural inclination is to soar through the
+Heavens, yet it cannot unless the chains that bind it to the earth are broken. 
+
+Loose your mind from all it ever believed; let everything go that you have
+taught yourself, all your beliefs, conclusions, and assumptions. Nothing that
+you have been taught is true or useful on the spiritual journey. All is
+illusion, folly, false and limiting. You must let it go that your mind may
+become able to receive the Truth. 
+
+## Holiness and Action
+{: .ui.header.center.aligned}
+
+Will what you do help you or hurt you? Does what you do to others help or hurt?
+Do you act with Love, from Love, or from fear? Do your relations with your
+brothers take place in the Light of the Self or in the ignorance of the self?
+All selfish action will hurt you no matter what the apparent motivation. To act
+from the position of ego identification is to deny yourself the help you really
+need. 
+
+To function from the understanding that comes from trusting the Holy Spirit, is
+to assure yourself of real benefit that will result from your actions; all who
+are affected in any way by your decisions will also benefit. There is nothing
+that you do, think, or say that does not affect everyone and everything. To be
+aware of that fact is wisdom; and to live, to act, for the benefit of all is to
+bring Holiness Itself into all you do. 
+
+Holiness is what you are, the nature of your Being. You cannot be other than
+what you are. Dissociation from your real nature is the human condition, but
+this condition is not natural. Sure it is that in the world of seeming
+separation, Holiness is not apparent, being covered over by the refusal to
+love. Its absence is sorely felt for when Holiness is lacking, suffering will
+take its place. In fact, the absence of Holiness is suffering. When what is
+most holy marks your life through its influence, no real suffering is possible.
+In the presence of what is sacred, illusion loses its hold, allowing Truth to
+prevail. 
+
+## Only the Self
+{: .ui.header.center.aligned}
+
+Only the Self is real; all else that appears before your eyes is but the
+projections of mind: empty imagery without reality or substance. It is the
+taking of the world of appearance as real that lies behind all problems. What
+appears as an image in a dream cannot affect you in any way unless you forget
+that you are dreaming. The dream is very convincing in its effects, yet it is
+you who give it the power to deceive. If you remember that all life in
+separation is but a dream, that only God and His Creation are real, you are on
+your way to freedom. To recognize the bars that hold you prisoner are of your
+own making is the first step towards freedom. You need not break through the
+walls that seem to confine you; you need only recognize their unreality and you
+are free to go. The jailer guarding the walls all along was only your own mind.
+Only your thoughts keep you a prisoner to what does not exist, and only your
+thoughts will set you free. 
+
+Whenever the temptation to be as you are not arises in your mind, remember
+this: to be something other than what you are in Truth, will always lead to
+fear, pain, and suffering, and a deep sense of emptiness and despair. Only by
+being your Self can you find real fulfillment and return to freedom. 
+
+To live life as a body, an exile in a strange land, is the fate of those who
+refuse to question what they have been taught as reality. So long as willful
+ignorance blankets the mind, shutting out the Light, so long will you languish
+in a place that is not your home. While you refuse to raise to question the
+nature of the world you see, you remain its willing prisoner and will suffer at
+your own hand. It is your hand alone that is raised to strike, no matter from
+where the attack may seem to come. Forgive your brothers your sins and take
+back from them your demand they strike you down to punish you for what you have
+done. You have done nothing that calls for punishment. Only in dreams of
+madness could you believe such a thing. Lay down your weapons, end the war
+against yourself once and for all time. As you lay down all of your defenses,
+you will discover that nothing can threaten or disturb you in any way. 
 

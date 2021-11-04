@@ -1,6 +1,6 @@
 {
   "bid": "book1",
-  "title": "From the Christ Mind",
+  "title": "From the Christ Mind: Book I",
   "image": "/t/ftcm/public/img/ftcm/book1-toc2.jpg",
   "toc": "relaxed",
   "totalPages": 14,
@@ -49,27 +49,33 @@
     },
     {
       "title": "8. Love",
-      "url": "/t/ftcm/book1/chap08/"
+      "url": "/t/ftcm/book1/chap08/",
+      "audio": "/book1/chap08.mp3"
     },
     {
       "title": "9. The Way Back",
-      "url": "/t/ftcm/book1/chap09/"
+      "url": "/t/ftcm/book1/chap09/",
+      "audio": "/book1/chap09.mp3"
     },
     {
       "title": "10. The Return of Wholeness",
-      "url": "/t/ftcm/book1/chap10/"
+      "url": "/t/ftcm/book1/chap10/",
+      "audio": "/book1/chap10.mp3"
     },
     {
       "title": "11. Truth and Freedom",
-      "url": "/t/ftcm/book1/chap11/"
+      "url": "/t/ftcm/book1/chap11/",
+      "audio": "/book1/chap11.mp3"
     },
     {
       "title": "12. The Peace of God",
-      "url": "/t/ftcm/book1/chap12/"
+      "url": "/t/ftcm/book1/chap12/",
+      "audio": "/book1/chap12.mp3"
     },
     {
       "title": "Epilogue",
-      "url": "/t/ftcm/book1/epilog/"
+      "url": "/t/ftcm/book1/epilog/",
+      "audio": "/book1/epilog.mp3"
     }
   ]
 }
