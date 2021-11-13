@@ -28,7 +28,15 @@ export function pageDriver() {
       popover: {
         title: "Book I",
         description: "The first book in the From the Christ Mind series",
-        position: "left"
+        position: "top"
+      }
+    },
+    {
+      element: "#book-two",
+      popover: {
+        title: "Book II",
+        description: "The second book in the From the Christ Mind series",
+        position: "right"
       }
     }
   ];

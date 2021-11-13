@@ -13,12 +13,12 @@ function createClickHandlers() {
 
     if ($(this).hasClass("page-navtour")) {
       //console.log("page Nav Driver");
-      pageNavigationDriver("Choose Only Love");
+      pageNavigationDriver("From the Christ Mind");
     }
 
     if ($(this).hasClass("transcript-tour")) {
       //console.log("transcriptDriver");
-      transcriptDriver("Choose Only Love");
+      transcriptDriver("From the Christ Mind");
     }
 
     if ($(this).hasClass("page-tour")) {
