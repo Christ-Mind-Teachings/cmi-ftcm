@@ -1,0 +1,34 @@
+/* fdtcm css */
+
+h1.ui.header.center.aligned {
+  margin-top: 3rem;
+}
+
+#page-contents {
+  margin-top: 3rem;
+}
+
+.transcript span.under {
+  text-decoration: underline;
+}
+
+.transcript blockquote {
+  font-style: italic;
+}
+
+.book2.transcript > p.center {
+  text-align: center;
+}
+
+.transcript blockquote.space {
+  font-style: italic;
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+.transcript.book2 div.indent {
+  margin-bottom: 1em;
+  margin-left: 3rem;
+}
+
+

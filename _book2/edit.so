@@ -1,0 +1,6 @@
+" {: .ui.header.center.aligned}
+
+" .,$s/^\([A-Z]\)/## \1/
+g/^##/put b
+%s/^	//
+

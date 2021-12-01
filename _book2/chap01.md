@@ -250,8 +250,6 @@ prevents its freedom of movement. Whatever else you do to heal the mind, and
 there is much to this process, you must release the ancient, deep seated
 grievances and hatred that have held you a prisoner to fear for so long. 
 
-<!-- Audio of the section ends here -->
-
 Fear and unforgiveness are always found together; where one is, there will the
 other be also. To forgive unconditionally is to reject fear in all its forms.
 To replace grievances with the expression of Love will ultimately heal all fear

@@ -1,0 +1,17 @@
+{
+    "base": "/t/ftcm/book1/epilog/",
+    "time": [
+        {
+            "id": "p0",
+            "seconds": 0
+        },
+        {
+            "id": "p1",
+            "seconds": 60.877035
+        },
+        {
+            "id": "p2",
+            "seconds": 122.121035
+        }
+    ]
+}

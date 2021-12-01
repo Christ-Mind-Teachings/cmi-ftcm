@@ -4,15 +4,15 @@ workingDir=`pwd`
 scriptDir=`dirname $0`
 scriptName=`basename $0`
 
-unitDir="/Users/rmercer/Projects/cmi/site/cmi-col"
-awkFile="col.awk"
+unitDir="/Users/rmercer/Projects/cmi/site/cmi-ftcm"
+awkFile="ftcm.awk"
 debug=0
 
-source="col"
+source="ftcm"
 
 function syntax {
   echo "prep -b <book> file"
-  echo " ex: prep -b tjl chap01"
+  echo " ex: prep -b book1 chap01"
   exit 1
 }
 
@@ -30,6 +30,8 @@ if [[ -z $1 ]]; then
   syntax
 fi
 
+# example of using different awk files for different books
+# not used here
 if [ $book == "lj" ]; then
   awkFile="lj.awk"
 elif [ $book == "wos" ]; then

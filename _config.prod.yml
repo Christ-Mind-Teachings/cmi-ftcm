@@ -90,7 +90,7 @@ defaults:
       image-width: 612
       image-height: 918
       bid: "book2"
-      audio: false
+      audio: audio
 
 exclude: [
   bin, standalone, moved.html, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project

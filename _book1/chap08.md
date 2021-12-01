@@ -828,7 +828,7 @@ Fear is present in your mind in many forms, some of which you may not
 recognize. It is very important for you to become very aware of the fear in
 your mind and its effect on your thinking. Too often is fear the motivation
 behind thought and action. The various egoic defense mechanisms, of which there
-are many, are all expressions of fear in action.	
+are many, are all expressions of fear in action.
 
 Without fear, there is no need to attack or defend. Without fear, are all
 defenses seen as meaningless and cast aside. Freedom is freedom from fear, for

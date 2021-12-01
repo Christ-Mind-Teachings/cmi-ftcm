@@ -29,7 +29,7 @@ $(document).ready(() => {
   setRuntimeEnv();
 
   bookmarkStart("page");
-  search.initialize();
+  search.initialize(constants.sid);
   auth.initialize();
   toc.initialize("page");
   initNotes(noteInfo);

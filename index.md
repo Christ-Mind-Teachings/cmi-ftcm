@@ -15,9 +15,26 @@ footer:
 
 <div class="page-introduction" markdown="1">
 
-<p>
-Intro
-</p>
+*The Christ has need of helpers in the world of form and separation. Each one
+brings a Light that shines away all darkness. Each one bears a message of Love
+and hope, of resurrection and the end of death’s harsh rule.*
+
+*You’re the One. You’re the One He needs.*
+
+*Without you, there is no salvation.*
+
+What is presented here is a timeless sacred teaching. From the Foreword by
+Darrell Morley Price in 2012 “The teaching presented in these pages is the
+result of a collaboration between the Mind of Jesus of Nazareth and myself.
+This teaching to put it simply and directly, has been scribed. The content, the
+ideas, as well as the form in which they are expressed, have been received
+directly from the Mind of Jesus and written down as they were received&hellip;
+The process of transmission and reception was simple and direct. In full
+conscious awareness, in a relaxed and receptive state of mind, I would receive
+the first words or phrase of a sentence through a kind of inner hearing. As I
+wrote them down, more words would come until the sentence was complete. Then
+the next sentence would begin. I never knew at the beginning of a sentence, how
+it would end.”
 
 </div>
 
@@ -39,7 +56,6 @@ Intro
         </div>
       </div>
     </div>
-    <!--
     <div class="column source-features">
       <div class="ui top attached tabular menu">
         <a class="active item" data-tab="first">News</a>
@@ -67,7 +83,6 @@ Intro
         </div>
       </div>
     </div>
-    -->
   </div>
   <div class="ui three cards">
     <div class="card">

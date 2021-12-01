@@ -26,6 +26,8 @@ const SEARCH_RESULT = Symbol("search_result");
 const SEARCH_ERROR = Symbol("search_error");
 const SAVED_SEARCH = Symbol("saved_search");
 
+let teachingId = "unknown";
+
 function displaySearchMessage(msgId, arg1, arg2, arg3) {
   switch(msgId) {
     case SEARCHING:
@@ -69,7 +71,7 @@ function displaySearchMessage(msgId, arg1, arg2, arg3) {
 //run query
 async function search(query) {
   let searchBody = {
-    source: "col",
+    source: teachingId,
     query: query,
     width: 30
   };
@@ -143,7 +145,9 @@ function initSearchModal() {
 }
 
 export default {
-  initialize: function() {
+  initialize: function(sid) {
+
+    teachingId = sid;
 
     if ($(".transcript").length) {
       //this is a transcript page

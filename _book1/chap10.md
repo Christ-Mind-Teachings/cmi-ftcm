@@ -153,7 +153,7 @@ your mind. When your mind is given over to forgiveness, joy and happiness will
 be yours; they follow forgiveness as surely as grief and pain follow guilt. You
 cannot be happy unless you forgive, for to forgive is to Love. The refusal to
 forgive is an attack upon your brother and yourself; attack will always lead to
-fear and drive Love from your mind.	
+fear and drive Love from your mind.
 
 ## Choose Again
 {: .ui.header.center.aligned}

@@ -81,9 +81,13 @@ $1 ~ /#/ {
   # questions
   next
 }
+# horizontal line
+/^<hr/ {
+  next
+}
 # a markdown class designation
 /^{:/ {
-  omit = 1
+  # omit = 1
   next
 }
 # opening or closing div

@@ -15,7 +15,8 @@
     {
       "title": "1. Truth Returns",
       "url": "/t/ftcm/book1/chap01/",
-      "audio": "/book1/chap01.mp3"
+      "audio": "/book1/chap01.mp3",
+      "timing": "/book1/chap01.json"
     },
     {
       "title": "2. The Arrival of Truth",
@@ -75,7 +76,8 @@
     {
       "title": "Epilogue",
       "url": "/t/ftcm/book1/epilog/",
-      "audio": "/book1/epilog.mp3"
+      "audio": "/book1/epilog.mp3",
+      "timing": "/book1/epilogue.json"
     }
   ]
 }

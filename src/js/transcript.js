@@ -37,7 +37,7 @@ $(document).ready(() => {
   initVideo();
 
   loadConfig(getBookId()).then((result) => {
-    search.initialize();
+    search.initialize(constants.sid);
     toc.initialize("transcript");
     audio.initialize();
     showParagraph();

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for b in book1 book2 book3 book4 book5; do
+for b in book1 book2; do
   echo "$b"
   cd $b
 
