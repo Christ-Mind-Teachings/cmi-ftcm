@@ -1,0 +1,33 @@
+{
+    "base": "/t/ftcm/book2/foreword/",
+    "time": [
+        {
+            "id": "p0",
+            "seconds": 0
+        },
+        {
+            "id": "p1",
+            "seconds": 54.734179
+        },
+        {
+            "id": "p2",
+            "seconds": 116.223968
+        },
+        {
+            "id": "p3",
+            "seconds": 148.732029
+        },
+        {
+            "id": "p4",
+            "seconds": 163.481448
+        },
+        {
+            "id": "p5",
+            "seconds": 175.712028
+        },
+        {
+            "id": "p6",
+            "seconds": 190.711666
+        }
+    ]
+}

@@ -19,7 +19,7 @@ title: "On Amazon"
           <em>From the Christ Mind</em>
         </a>
         <div class="meta">
-          <span>Paperback and audio book on Amazon</span>
+          <span>Paperback and Audiobook on Amazon</span>
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@ title: "On Amazon"
           <em>From the Christ Mind</em> Book II
         </a>
         <div class="meta">
-          <span>Paperback and audio book on Amazon</span>
+          <span>Paperback and Audiobook on Amazon</span>
         </div>
       </div>
     </div>

@@ -274,7 +274,8 @@ function genParagraphKey(pid, key = location.pathname) {
         ppp: paragraph number - not positional
 */
 function decodeKey(key) {
-  let {pid, pageKey} = parseKey(key);
+ // let {pid, pageKey} = parseKey(key);
+  let {paraKey:pid, pageKey} = parseKey(key);
   let pageKeyString = pageKey.toString(10);
   let decodedKey = {
     error: false,
@@ -366,8 +367,9 @@ function describeKey(key) {
     key: key,
     source: si.sid,
     book: decodedKey.bookId,
-    unit: si.contents[decodedKey.bookId][decodedKey.uid],
-    subunit: si.contents[`${decodedKey.bookId}2`][decodedKey.xid]
+    unit: si.contents[decodedKey.bookId][decodedKey.uid]
+    //subunit is a carry over from WOM. It's not used here
+    //,subunit: si.contents[`${decodedKey.bookId}`][decodedKey.xid]
   };
 
   if (decodedKey.pid > -1) {

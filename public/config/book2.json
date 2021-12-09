@@ -9,42 +9,50 @@
     {
       "title": "Foreword",
       "url": "/t/ftcm/book2/foreword/",
-      "audio": "/book2/foreword.mp3"
+      "audio": "/book2/foreword.mp3",
+      "timing": "/book2/foreword.json"
     },
     {
       "title": "1. Salvation",
       "url": "/t/ftcm/book2/chap01/",
-      "audio": "/book2/chap01.mp3"
+      "audio": "/book2/chap01.mp3",
+      "timing": "/book2/chap01.json"
     },
     {
       "title": "2. What You Desire",
       "url": "/t/ftcm/book2/chap02/",
-      "audio": "/book2/chap02.mp3"
+      "audio": "/book2/chap02.mp3",
+      "timing": "/book2/chap02.json"
     },
     {
       "title": "3. The Gifts of God",
       "url": "/t/ftcm/book2/chap03/",
-      "audio": "/book2/chap03.mp3"
+      "audio": "/book2/chap03.mp3",
+      "timing": "/book2/chap03.json"
     },
     {
       "title": "4. Decision Making",
       "url": "/t/ftcm/book2/chap04/",
-      "audio": "/book2/chap04.mp3"
+      "audio": "/book2/chap04.mp3",
+      "timing": "/book2/chap04.json"
     },
     {
       "title": "5. Love and Peace",
       "url": "/t/ftcm/book2/chap05/",
-      "audio": "/book2/chap05.mp3"
+      "audio": "/book2/chap05.mp3",
+      "timing": "/book2/chap05.json"
     },
     {
       "title": "6. Remember Your Father",
       "url": "/t/ftcm/book2/chap06/",
-      "audio": "/book2/chap06.mp3"
+      "audio": "/book2/chap06.mp3",
+      "timing": "/book2/chap06.json"
     },
     {
       "title": "7. Purpose and the Ego",
       "url": "/t/ftcm/book2/chap07/",
-      "audio": "/book2/chap07.mp3"
+      "audio": "/book2/chap07.mp3",
+      "timing": "/book2/chap07.json"
     },
     {
       "title": "8. The Holy Instant",

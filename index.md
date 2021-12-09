@@ -11,7 +11,7 @@ footer:
 ---
 
 ##  From the Christ Mind
-{: .ui.header}
+{: .ui.header.center}
 
 <div class="page-introduction" markdown="1">
 
@@ -19,9 +19,8 @@ footer:
 brings a Light that shines away all darkness. Each one bears a message of Love
 and hope, of resurrection and the end of death’s harsh rule.*
 
-*You’re the One. You’re the One He needs.*
-
-*Without you, there is no salvation.*
+<p class="center"><em>You’re the One. You’re the One He needs. <br>
+Without you, there is no salvation.</em></p>
 
 What is presented here is a timeless sacred teaching. From the Foreword by
 Darrell Morley Price in 2012 “The teaching presented in these pages is the

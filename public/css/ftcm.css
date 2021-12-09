@@ -8,6 +8,10 @@ h1.ui.header.center.aligned {
   margin-top: 3rem;
 }
 
+.center {
+  text-align: center;
+}
+
 .transcript span.under {
   text-decoration: underline;
 }

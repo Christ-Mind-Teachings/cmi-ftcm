@@ -9,7 +9,7 @@ will bring about predictable results no matter what your problems appear to be.
 No problem will be truly solved; it will simply appear again in a different
 form. The form changes, shifting first one way then another, but the content
 never changes, being always the same regardless of form. Illusion is the
-content and the form of eve1y problem, eve1y lack, eve1y conflict or threat.
+content and the form of every problem, every lack, every conflict or threat.
 Nothing you see before you is real, nor can the problems of this world be
 resolved on the level of illusion. 
 
@@ -61,7 +61,7 @@ Now is the time to begin anew. Now is the time, only now. You never wanted what
 the world seems to offer. Its meaningless rewards and empty experiences have
 attracted you for a little while but now you see them for what they really are.
 Their meaningless wrappings disguise their content. Death is all you have ever
-found here. Eve1y experience has been but the prelude to death. Can anything,
+found here. Every experience has been but the prelude to death. Can anything,
 no matter how attractive the wrappings, mask the death it offers you unless you
 wish it so?
 
@@ -77,7 +77,7 @@ The way back seems to be long and arduous with obstacles on every side. Yet are
 the obstacles in your mind only. They will be resolved one by one or all at
 once as you choose. Your Friend goes with you every step of the way, sent by
 God to smooth the way and help you remove everything that obstructs your path.
-Your Friend will never desert you; see that you do not dese1t Him. If you do,
+Your Friend will never desert you; see that you do not desert Him. If you do,
 He will merely wait until you come to your senses. He has always been with you,
 waiting for you to turn to Him, to ask for His help. There is nothing you do
 but will benefit by including Him. Every decision you make without the Holy
@@ -95,7 +95,7 @@ healed alone. Healing is for all; each healed mind will offer what it has been
 given to all. Thus is a chain of Atonement forged link by link until all who
 live in darkness have been reunited with the Christ within. Nothing else that
 you do even remotely compares with returning to Truth and bringing your
-brothers with you. All Creation rejoices eve1y time God's Holy Son returns to
+brothers with you. All Creation rejoices every time God's Holy Son returns to
 Heaven. 
 
 ## No Reason to Fear
@@ -138,7 +138,7 @@ freely received.
 
 The reason life as a human being seems so difficult is because of the belief
 in, and the perception that follows, of a world in which you are alone and
-separate from eve1ything you see. To walk alone and friendless through an
+separate from everything you see. To walk alone and friendless through an
 uncaring wasteland seems to be your life. Friends you may have, but never can
 you trust them wholly, for each has his own interest which he will pursue at
 the expense of all others. In such a world there is nothing to do but protect
@@ -262,7 +262,7 @@ returns to awareness. By your giving them away you accept His gifts as yours,
 and in the giving you accept their purpose. The purpose of all that God has
 given you is to be shared. God's gifts are for all, given to everything created
 in its creation. Through giving is it revealed that you have everything and you
-are ev­erything. What you are, you have, and what you have is what you are. 
+are everything. What you are, you have, and what you have is what you are. 
 
 To serve the Great Plan, you must serve all those for whom It is intended. To
 love God is to love His Creation. Love naturally gives Itself to all; that is
@@ -272,7 +272,7 @@ is contagious, and the presence of Love will grow; in Its kindly light all
 darkness and fear will disappear forever. You are meant to be the embodiment of
 Love, that you may bring Love to all who inhabit the world meant to be the
 place where fear rules and Love is denied. Who else but you can be the Savior
-of the world? Who else is there? Until you ac­cept your part in the Great Plan
+of the world? Who else is there? Until you accept your part in the Great Plan
 of Salvation, It is not complete. 
 
 Would you serve your Father, the Creator of all that truly is, or would you
