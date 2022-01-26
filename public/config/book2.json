@@ -57,7 +57,8 @@
     {
       "title": "8. The Holy Instant",
       "url": "/t/ftcm/book2/chap08/",
-      "audio": "/book2/chap08.mp3"
+      "audio": "/book2/chap08.mp3",
+      "timing": "/book2/chap08.json"
     },
     {
       "title": "9. Time and Purpose",
@@ -77,27 +78,32 @@
     {
       "title": "12. Two Answers",
       "url": "/t/ftcm/book2/chap12/",
-      "audio": "/book2/chap12.mp3"
+      "audio": "/book2/chap12.mp3",
+      "timing": "/book2/chap12.json"
     },
     {
       "title": "13. The Way to Heaven",
       "url": "/t/ftcm/book2/chap13/",
-      "audio": "/book2/chap13.mp3"
+      "audio": "/book2/chap13.mp3",
+      "timing": "/book2/chap13.json"
     },
     {
       "title": "14. Light and Creation",
       "url": "/t/ftcm/book2/chap14/",
-      "audio": "/book2/chap14.mp3"
+      "audio": "/book2/chap14.mp3",
+      "timing": "/book2/chap14.json"
     },
     {
       "title": "15. Lessons",
       "url": "/t/ftcm/book2/chap15/",
-      "audio": "/book2/chap15.mp3"
+      "audio": "/book2/chap15.mp3",
+      "timing": "/book2/chap15.json"
     },
     {
       "title": "Epilogue",
       "url": "/t/ftcm/book2/epilog/",
-      "audio": "/book2/epilogue.mp3"
+      "audio": "/book2/epilogue.mp3",
+      "timing": "/book2/epilog.json"
     }
   ]
 }

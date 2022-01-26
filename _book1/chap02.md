@@ -296,9 +296,9 @@ for He recognizes what is the same and what is different. All illusion, all
 apparent choices based on the values of this world, the valuation of what is
 valueless, He sees as the nothingness it is. Nothingness is nothingness no
 matter what the form. He is not confused by apparent complexity or difference.
-Everything is the difference and when this is learned, choosing will become
-easy. The confusion in your mind about the value of things, and your inability
-to discern Truth from illusion, has made your choosing erratic and
+Everything is either true or false and when this is learned, choosing will
+become easy. The confusion in your mind about the value of things, and your
+inability to discern Truth from illusion, has made your choosing erratic and
 self-destructive. To choose wisely requires you to be aware of the actual value
 of the alternatives facing you, and the consequences associated with each.
 Without this awareness, you are choosing blindly, acting out the past, and
@@ -456,7 +456,7 @@ with you alone, you are mistaken. Nothing you think, say, or do affects you
 only. Minds are joined; even in separation, mind is One. Every mind affects all
 other minds and is affected by them. Isolation is not a fact, it is a fantasy.
 
-The laws of God apply even here in the dream invented to world. God’s Creation
+The laws of God apply even here in the dream invented to take His place. God’s Creation
 is One, although in this world that does not appear to be the case.
 Nevertheless, what is done by one is reflected in all. Though you are not
 conscious of this fact, you cannot think of the Sonship except as One. What you

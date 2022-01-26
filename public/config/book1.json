@@ -21,32 +21,38 @@
     {
       "title": "2. The Arrival of Truth",
       "url": "/t/ftcm/book1/chap02/",
-      "audio": "/book1/chap02.mp3"
+      "audio": "/book1/chap02.mp3",
+      "timing": "/book1/chap02.json"
     },
     {
       "title": "3. The End of Time",
       "url": "/t/ftcm/book1/chap03/",
-      "audio": "/book1/chap03.mp3"
+      "audio": "/book1/chap03.mp3",
+      "timing": "/book1/chap03.json"
     },
     {
       "title": "4. Beginning Again",
       "url": "/t/ftcm/book1/chap04/",
-      "audio": "/book1/chap04.mp3"
+      "audio": "/book1/chap04.mp3",
+      "timing": "/book1/chap04.json"
     },
     {
       "title": "5. The Rise of Truth",
       "url": "/t/ftcm/book1/chap05/",
-      "audio": "/book1/chap05.mp3"
+      "audio": "/book1/chap05.mp3",
+      "timing": "/book1/chap05.json"
     },
     {
       "title": "6. The Pursuit of Truth",
       "url": "/t/ftcm/book1/chap06/",
-      "audio": "/book1/chap06.mp3"
+      "audio": "/book1/chap06.mp3",
+      "timing": "/book1/chap06.json"
     },
     {
       "title": "7. The Time of Change",
       "url": "/t/ftcm/book1/chap07/",
-      "audio": "/book1/chap07.mp3"
+      "audio": "/book1/chap07.mp3",
+      "timing": "/book1/chap07.json"
     },
     {
       "title": "8. Love",
