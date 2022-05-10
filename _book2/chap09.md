@@ -10,7 +10,7 @@ is the only moment of time that is real. Hence it is the only time that Truth
 can penetrate and reach your mind. The ego would have you live in the past,
 overlooking the present and chasing the future. In the present the ego does not
 exist; it must avoid the present at all costs. The Holy Spirit brings your mind
-back to the present, that you may hear Him and began to experience life in a
+back to the present, that you may hear Him and begin to experience life in a
 new way. You must return to the present, that the burden of the past be lifted
 from your mind and the future set free to continue the present. What is new and
 alive must be allowed to flower and grow in your mind, replacing what is over
@@ -201,7 +201,7 @@ thoughts. There is no thinker. There is only the memory of the past, playing
 out constantly in your mind as if the past were happening now. The ego is the
 source of the inner process of thought that dominates your awareness. It will
 never speak truthfully to you, being itself an illusion. Yet its constant
-activity convinces you that it􀀲 you. Thus has the belief arisen that egoic
+activity convinces you that it is you. Thus has the belief arisen that egoic
 thoughts are your thoughts, that you are thinking them. 
 
 Let the Holy Spirit help you be continuously aware of the activity of your
@@ -411,7 +411,7 @@ illusions and returned to your eternal condition of peace and freedom. Only you
 can complete the part assigned to you, and only thus are you made whole and
 complete again. Doing God's work is not a burden; it is joy itself. You will
 never be happy unless you are fulfilling the function given you by God. To do
-what God wills is to follow your true will, for your will􀀧 God's Will. 
+what God wills is to follow your true will, for your will is God's Will. 
 
 A Teacher of God has a single purpose, and it is to this he devotes his life
 each day. All the day's activities are seen in the light of this single

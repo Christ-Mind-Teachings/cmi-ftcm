@@ -57,27 +57,32 @@
     {
       "title": "8. Love",
       "url": "/t/ftcm/book1/chap08/",
-      "audio": "/book1/chap08.mp3"
+      "audio": "/book1/chap08.mp3",
+      "timing": "/book1/chap08.json"
     },
     {
       "title": "9. The Way Back",
       "url": "/t/ftcm/book1/chap09/",
-      "audio": "/book1/chap09.mp3"
+      "audio": "/book1/chap09.mp3",
+      "timing": "/book1/chap09.json"
     },
     {
       "title": "10. The Return of Wholeness",
       "url": "/t/ftcm/book1/chap10/",
-      "audio": "/book1/chap10.mp3"
+      "audio": "/book1/chap10.mp3",
+      "timing": "/book1/chap10.json"
     },
     {
       "title": "11. Truth and Freedom",
       "url": "/t/ftcm/book1/chap11/",
-      "audio": "/book1/chap11.mp3"
+      "audio": "/book1/chap11.mp3",
+      "timing": "/book1/chap11.json"
     },
     {
       "title": "12. The Peace of God",
       "url": "/t/ftcm/book1/chap12/",
-      "audio": "/book1/chap12.mp3"
+      "audio": "/book1/chap12.mp3",
+      "timing": "/book1/chap12.json"
     },
     {
       "title": "Epilogue",
