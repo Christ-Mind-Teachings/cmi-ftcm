@@ -4,6 +4,11 @@ h1.ui.header.center.aligned {
   margin-top: 3rem;
 }
 
+.page-introduction {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
 #page-contents {
   margin-top: 3rem;
 }
