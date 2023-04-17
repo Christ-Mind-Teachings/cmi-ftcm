@@ -1,10 +1,8 @@
-import {pageDriver} from "../_util/driver";
-import {transcriptDriver, pageNavigationDriver} from "www/modules/_util/driver";
+import {transcriptDriver, pageNavigationDriver} from "common/modules/_util/driver";
+import clipboard from "common/modules/_bookmark/clipboard";
 
-// import {pageDriver, pageNavigationDriver, transcriptDriver} from "../_util/driver";
+import {pageDriver} from "../_util/driver";
 import key from "../_config/key";
-import clipboard from "www/modules/_bookmark/clipboard";
-import {getString} from "../_language/lang";
 
 function createClickHandlers() {
   //help menu
@@ -24,18 +22,6 @@ function createClickHandlers() {
     if ($(this).hasClass("page-tour")) {
       pageDriver();
     }
-
-    /*
-    if ($(this).hasClass("page-navtour")) {
-      //console.log("page Nav Driver");
-      pageNavigationDriver();
-    }
-
-    if ($(this).hasClass("transcript-tour")) {
-      //console.log("transcriptDriver");
-      transcriptDriver();
-    }
-    */
 
     if ($(this).hasClass("about-src")) {
       location.href = "/about/";
@@ -78,9 +64,10 @@ export default {
     createClickHandlers();
 
     //get pagekey and setup copy to clipboard
+    //this is a debugging aid
     if ($(".copy-page-key").length > 0) {
       let pageKey = key.genPageKey();
-      $(".copy-page-key").attr("data-clipboard-text", pageKey).text(`${getString("label:key")}: ${pageKey}`);
+      $(".copy-page-key").attr("data-clipboard-text", pageKey).text(`Key: ${pageKey}`);
       clipboard.register(".copy-page-key");
     }
   }

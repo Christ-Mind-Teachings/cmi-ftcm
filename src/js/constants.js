@@ -3,27 +3,32 @@
 */
 
 const keyInfo = require("./modules/_config/key");
-import {getPageInfo} from "./modules/_config/config";
+import {getReservation, getAudioInfo, getPageInfo} from "./modules/_config/config";
 
-let env = "integration";
-let sid = "ftcm";
-let lang = "en";
-let title = "From the Christ Mind";
-let bucket = "assets.christmind.info";
+const env = "integration";
+const sid = "ftcm";
+const lang = "en";
+const title = "From the Christ Mind";
+const HOME_URI = `/t/${sid}`;
 
 export default {
   env: env,
   lang: lang,
   sid: sid,
   title: title,
-  url_prefix: `/t/${sid}`,                  //navigator
-  getPageInfo: getPageInfo,              //list
-  keyInfo: keyInfo,
+  url_prefix: `${HOME_URI}`,
+  configUrl: `${HOME_URI}/public/config`,
   sourceId: 18,
   quoteManagerId: "06f94decd3c83f916e11964237207110",
   quoteManagerName: "CMI",
-  audioBase: `https://s3.amazonaws.com/${bucket}/${sid}/audio`,
-  searchEndpoint: `https://d9lsdwxpfg.execute-api.us-east-1.amazonaws.com/latest/${sid}`,
+  getPageInfo: getPageInfo,
+  keyInfo: keyInfo,
+  audio: {
+    audioBase: `https://s3.amazonaws.com/assets.christmind.info/${sid}/audio`,
+    timingBase: `${HOME_URI}/public/timing`,
+    getReservation: getReservation,
+    getAudioInfo: getAudioInfo
+  },
   store: {
     bmList: "bm.list",
     bmCreation: "bm.creation",

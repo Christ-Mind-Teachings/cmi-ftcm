@@ -4,6 +4,7 @@ environment: integration
 destination: "../cmi-www/t/ftcm"
 
 sourceId: 18
+sid: FTCM
 cmiTitle: "Teachings of Christ Mind"
 siteName: "Library of Christ Mind Teachings"
 
@@ -25,9 +26,6 @@ author:
 
 fb-appId:     448658485318107
 semantic:     fui292
-#semantic:     fui286
-#semantic:     sui231
-#semantic:     sui241
 src-url:      'https://www.christmind.info/t/ftcm'
 
 # Permalinks
@@ -91,7 +89,7 @@ defaults:
       image-width: 612
       image-height: 918
       bid: "book2"
-      audio: audio
+      audio: true
 
 exclude: [
   bin, standalone, moved.html, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project

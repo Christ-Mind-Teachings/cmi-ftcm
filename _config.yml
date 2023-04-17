@@ -1,19 +1,21 @@
 # CMI
 
-sourceId: 18
-environment: standalone
+environment: integration
+destination: "../cmi-www/_site/t/ftcm"
 
+sourceId: 18
+sid: FTCM
 cmiTitle: "Teachings of Christ Mind"
 siteName: "Library of Christ Mind Teachings"
 
 # Setup
-title:        'Choose Only Love'
+title:        'From the Christ Mind'
 description:  'A channeled work'
 url:          'https://www.christmind.info/t/ftcm'
 baseurl:      ''
 keywords:     "Jesus, Jeshua, Channeled Material"
-home:         "/"
-port:         9917
+home:         "/t/ftcm/"
+port:         9918
 
 # About/contact
 author:
@@ -23,9 +25,6 @@ author:
 
 fb-appId:     448658485318107
 semantic:     fui292
-#semantic:     fui286
-#semantic:     sui231
-#semantic:     sui241
 src-url:      'https://www.christmind.info/t/ftcm'
 
 # Permalinks
@@ -45,10 +44,10 @@ collections:
     title: Get Acquainted
   book1:
     output: true
-    title: "Book 1: Echoes of Holiness"
+    title: "From the Christ Mind"
   book2:
     output: true
-    title: "Book 2: Let Yourself Be Loved"
+    title: "Fromm the Christ Mind: Book II"
 
 defaults:
 
@@ -58,9 +57,9 @@ defaults:
     values:
       layout: transcript
       book: "Get Acquainted"
-      image: "/t/pwom/public/img/wom/acq-big.jpg"
+      image: "/t/ftcm/public/img/ftcm/acq-big.jpg"
       image-width: 612
-      image-height: 792
+      image-height: 918
       bid: "acq"
       audio: false
       pnumToggle: false
@@ -72,30 +71,26 @@ defaults:
       layout: transcript
       book: "From the Christ Mind"
       publisher: "From the Christ Mind"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      image: "/t/ftcm/public/img/ftcm/book1-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 918
       bid: "book1"
-      audio: false
+      audio: true
 
   - scope:
       path: ""
       type: book2
     values:
       layout: transcript
-      book: "Let Yourself Be Loved"
-      publisher: "Choose Only Love"
-      image: "/t/pwom/public/img/wom/tjl-big.jpg"
-      big-separator: "/t/pwom/public/img/wom/big.jpg"
-      little-separator: "/t/pwom/public/img/wom/little.jpg"
+      book: "From the Christ Mind: Book II"
+      publisher: "From the Christ Mind"
+      image: "/t/ftcm/public/img/ftcm/book2-big.jpg"
       image-width: 612
-      image-height: 877
+      image-height: 918
       bid: "book2"
-      audio: false
+      audio: true
 
 exclude: [
-  bin, moved.html, deploy, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
+  bin, standalone, moved.html, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
 ]
 
