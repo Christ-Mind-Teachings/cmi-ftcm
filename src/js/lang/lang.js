@@ -92,7 +92,7 @@ export default {
     s38: "Usunąć",
     s39: "Przywrócić",
     s40: "dopasowania"
-  }
+  },
   html: {
     h1: "Niech to..! Przesłanie danych nie powiodło się.",
     h2: "Aby przesłać dane ponownie, spróbuj odświeżyć stronę albo ponów próbę za jakiś czas. Dane nie zostaną utracone. Ten formularz zostanie wyświetlony następnym razem, gdy odwiedzisz stronę."
@@ -180,5 +180,5 @@ export default {
     e10: "Błąd w pozyskiwaniu listy adresów email:",
     e11: "Nieoczekiwana liczba punktów danych w istniejących danych znaczników czasu. Skontaktuj się proszę z Rick'iem. Nie można wprowadzać znaczników czasu dopóki problem nie zostanie rozwiązany.",
     e12: "Przykro nam, przesłanie danych nie powiodło się."
-  },
+  }
 }

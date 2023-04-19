@@ -146,13 +146,14 @@ export default {
     follow: "Follow",
     prev: "Previous",
     next: "Next",
+    closewin : "Close Window",
     close: "Close Window",
+    signout: "Sign Out",
+    signin: "Sign In",
     cp2clip: "Copy Url to Clipboard",
     fbshare: "Share to Facebook",
     emailshare: "Share via email",
-    emailsent: "Email Sent!",
-    signout: "Sign Out",
-    signin: "Sign In"
+    emailsent: "Email Sent!"
   },
   fragment: {
     f1: "A bookmark at",

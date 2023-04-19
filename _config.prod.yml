@@ -2,6 +2,8 @@
 
 environment: integration
 destination: "../cmi-www/t/ftcm"
+homepage:
+  notes: false
 
 sourceId: 18
 sid: FTCM
@@ -21,8 +23,8 @@ port:         9918
 # About/contact
 author:
   name:              Rick Mercer
-  url:               https://twitter.com/rmercer33
-  email:             rmercer33@gmail.com
+  url:               https://rickmercer.us
+  email:             rmercer33@christmind.info
 
 fb-appId:     448658485318107
 semantic:     fui292
@@ -63,6 +65,7 @@ defaults:
       image-height: 918
       bid: "acq"
       audio: false
+      notes: false
       pnumToggle: false
 
   - scope:
@@ -77,6 +80,7 @@ defaults:
       image-height: 918
       bid: "book1"
       audio: true
+      notes: false
 
   - scope:
       path: ""
@@ -90,6 +94,7 @@ defaults:
       image-height: 918
       bid: "book2"
       audio: true
+      notes: false
 
 exclude: [
   bin, standalone, moved.html, LICENSE, README.md, Gemfile, Gemfile.lock, package.json, package-lock.json, node_modules, webpack.config.js, src, project
