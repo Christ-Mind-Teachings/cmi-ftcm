@@ -190,7 +190,7 @@ export function getPageInfo(pageKey, data = false) {
 }
 
 /*
- * Set environment to standalone or integrated
+ * Set environment
  */
 export function setEnv(si) {
   g_sourceInfo = si;

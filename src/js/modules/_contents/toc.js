@@ -9,7 +9,6 @@ const uiTocModal = ".toc.ui.modal";
 const uiOpenTocModal = ".toc-modal-open";
 const uiModalOpacity = 0.5;
 
-
 /*
 * If there is timing or a timer defined for a toc item
 * set the class accordingly. A clock icon is displayed
@@ -73,7 +72,7 @@ function loadTOC() {
     .catch((error) => {
       console.error(error);
       $(".toc-image").attr("src", "/public/img/site/toc_modal.png");
-      $(".toc-title").html("${tocString}: <em>Error</em>");
+      $(".toc-title").html(`${tocString}: <em>Error</em>`);
       $(".toc-list").html(`<p>Error: ${error.message}</p>`);
       $(uiTocModal).modal("show");
     });

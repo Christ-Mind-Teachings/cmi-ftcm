@@ -16,7 +16,7 @@ export default {
   lang: lang,
   sid: sid,
   title: title,
-  url_prefix: `${HOME_URI}`,
+  url_prefix: HOME_URI,
   configUrl: `${HOME_URI}/public/config`,
   sourceId: 18,
   quoteManagerId: "06f94decd3c83f916e11964237207110",
