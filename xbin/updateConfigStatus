@@ -2,7 +2,7 @@
 
 /*
  * Update status.js in src/js/modules/_config/ by reading
- * project.json in the standalone or integration location.
+ * project.json.
  *
  * Project.json lists the names of json files to read for
  * the update.
@@ -10,7 +10,7 @@
  * Run this program every time there is a new json file or
  * a change to an existing json file.
  *
- * $ npm run updateConfigStatus <standalone | integration>
+ * $ npm run updateConfigStatus
  */
 
 const fs = require('fs');
@@ -19,22 +19,7 @@ const { exec } = require("child_process");
 const args = process.argv.slice(2);
 const outputFile = "src/js/modules/_config/status.js";
 
-if (args.length < 1) {
-  console.log("Enter 'standalone' or 'integration'");
-  process.exit();
-}
-
-let inPath;
-if (args[0] === "standalone") {
-  inPath = "standalone/config";
-}
-else if (args[0] === "integration") {
-  inPath = "public/config";
-}
-else {
-  console.log("Enter 'standalone' or 'integration'");
-  process.exit();
-}
+let inPath = "public/config";
 
 //This file specifies which config files to read
 let project = `${inPath}/project.json`;

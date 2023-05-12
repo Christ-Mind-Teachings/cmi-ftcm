@@ -24,8 +24,7 @@
       999 Paragraphs per unit or subunit
 
   Example: url's
-      [/t/sourceId]/bookId/unitId/subunitId/
-      - /t/sourceId is omitted in standalone mode
+      /t/sourceId/bookId/unitId/subunitId/
 
   NOTE: This module is used by code running in the browser and Node so the
         common.js module system is used

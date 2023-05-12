@@ -1,38 +1,22 @@
 #!/usr/bin/env node
 
 /*
- * Reads project.json found in ../standalone/config/ or ../public/config.
+ * Reads project.json found in ../public/config.
  *
  * Outputs project specific info to src/js/modules/_config/si.js. This
  * is imported by key.js and used to generate a key for each page. Keys
  * are used in search and bookmarks.
  *
- * Run this when moving from standalone to integration environment or
- * whenever pages are added or removed from configuration files.
+ * Run this whenever pages are added or removed from configuration files.
  *
- * $ npm run updateConfiguration <standalone | integration>
+ * $ npm run updateConfiguration
  */
 const fs = require('fs');
 
 const args = process.argv.slice(2);
 const outputFile = "src/js/modules/_config/si.js";
 
-if (args.length < 1) {
-  console.log("Enter 'standalone' or 'integration'");
-  process.exit();
-}
-
-let inPath;
-if (args[0] === "standalone") {
-  inPath = "standalone/config";
-}
-else if (args[0] === "integration") {
-  inPath = "public/config";
-}
-else {
-  console.log("Enter 'standalone' or 'integration'");
-  process.exit();
-}
+let inPath = "public/config";
 
 //This file specifies which config files to read
 let project = `${inPath}/project.json`;

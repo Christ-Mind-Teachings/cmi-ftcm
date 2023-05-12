@@ -11,7 +11,7 @@ let config; //the current configuration, initially null, assigned by getConfig()
 
 /**
  * Get the configuration file for 'book'. If it's not found in
- * the cache (local storage) then get it from the server and 
+ * the cache (local storage) then get it from the server and
  * save it in cache.
  *
  * @param {string} book - the book identifier
@@ -37,7 +37,7 @@ export function getConfig(book, assign = true) {
 
 /**
  * Load the configuration file for 'book'. If it's not found in
- * the cache (local storage) then get it from the server and 
+ * the cache (local storage) then get it from the server and
  * save it in cache.
  *
  * @param {string} book - the book identifier
