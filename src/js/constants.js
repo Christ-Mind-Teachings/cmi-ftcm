@@ -33,7 +33,6 @@ export default {
   audio: {
     audioBase: `https://s3.amazonaws.com/assets.christmind.info/${sid}/audio`,
     timingBase: `${HOME_URI}/public/timing`,
-    //getReservation: getReservation,
     getAudioInfo: getPageInfo
   },
   extension: {
