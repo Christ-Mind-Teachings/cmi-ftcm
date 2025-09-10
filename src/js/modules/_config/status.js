@@ -1,5 +1,5 @@
 export const status = {
-  book1: "Thu May 11 21:27:02 HST 2023",
-  book2: "Thu May 11 21:27:07 HST 2023",
-  acq: "Thu May 11 21:26:54 HST 2023"
+  book1: "Thu Feb 27 08:05:36 AEST 2025",
+  book2: "Thu Feb 27 08:05:36 AEST 2025",
+  acq: "Wed Sep 10 13:36:22 AEST 2025"
 };
