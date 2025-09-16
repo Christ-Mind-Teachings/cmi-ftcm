@@ -5,6 +5,11 @@ title: "Downloads"
 Ivan Vrzala has translated *From the Christ Mind Book 1* to Slovak and
 Czech. The books, in PDF format, are available for download here.
 
+Ivan Vrzala přeložil knihu Z Kristovy mysli, kniha 1, do slovenštiny a
+češtiny. Knihy ve formátu PDF jsou ke stažení zde.
+
+Ivan Vrzala preložil knihu Z Kristovej mysle, kniha 1, do slovenčiny a
+češtiny. Knihy si môžete stiahnuť vo formáte PDF tu.
 
 <div class="ui items">
   <div class="item">
@@ -17,7 +22,8 @@ Czech. The books, in PDF format, are available for download here.
         <em>From the Christ Mind Book 1</em>
       </a>
       <div class="meta">
-        <span>Slovak Translation</span>
+        <p>Slovak Translation</p>
+        <p>Slovenský Preklad</p>
       </div>
     </div>
   </div>
@@ -31,7 +37,8 @@ Czech. The books, in PDF format, are available for download here.
         <em>From the Christ Mind Book 1</em>
       </a>
       <div class="meta">
-        <span>Czech Translation</span>
+        <p>Czech Translation</p>
+        <p>Český Překlad</p>
       </div>
     </div>
   </div>
