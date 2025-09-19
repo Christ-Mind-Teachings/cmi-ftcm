@@ -15,7 +15,7 @@ Ivan Vrzala preložil knihu Z Kristovej mysle, kniha 1, do slovenčiny a
   <div class="item">
     <a class="ui small image" target="_blank"
       href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-slovak.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book1-big.jpg">
+      <img src="/t/ftcm/public/img/ftcm/book1-slovak.jpg">
     </a>
     <div class="content">
       <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-slovak.pdf" target="_blank">
@@ -30,7 +30,7 @@ Ivan Vrzala preložil knihu Z Kristovej mysle, kniha 1, do slovenčiny a
   <div class="item">
     <a class="ui small image" target="_blank"
       href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-czech.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book1-big.jpg">
+      <img src="/t/ftcm/public/img/ftcm/book1-czech.jpg">
     </a>
     <div class="content">
       <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-czech.pdf" target="_blank">
