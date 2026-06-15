@@ -2,83 +2,64 @@
 title: "Downloads"
 ---
 
-Ivan Vrzala has translated *From the Christ Mind* books to Slovak and
-Czech. The books, in PDF format, are available for download here.
 
-Ivan Vrzala přeložil knihy From the Christ Mind do slovenštiny a
-češtiny. Knihy ve formátu PDF jsou ke stažení zde.
-
-Ivan Vrzala preložil knihy Z Kristovej mysle do slovenčiny a češtiny.
-Knihy si môžete stiahnuť vo formáte PDF tu.
-
-<div class="ui items">
+<div class="ui list">
   <div class="item">
-    <a class="ui small image" target="_blank"
-      href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-slovak.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book1-slovak.jpg">
-    </a>
+    <img class="ui small image" src="/t/ftcm/public/img/ftcm/Czech.jpg">
     <div class="content">
-      <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-slovak.pdf" target="_blank">
-        <em>From the Christ Mind Book I</em>
-      </a>
-      <div class="meta">
-        <p>Slovak Translation</p>
-        <p>Kliknite na obálku knihy a stiahnite si prvú knihu v
-        slovenčine.</p>
+      <div class="header">Český překlad</div>
+      <div class="description">
+        <div>
+            <p>
+                Jana and Ivan translated it into Czech.<br/>
+                Jana s Ivanem přeložili do češtiny.
+            </p>
+            <p>
+                K dispozici v následujících formátech. Chcete-li číst v mobilu ve
+                formátu ePub, stáhněte si aplikaci ReadEra.
+            </p>
+        </div>
+          <div class="ui bulleted list">
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVY+MYSLI+I-II+c%CC%8Cesky.pdf" target="_blank">
+                  PDF
+              </a>
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVY+MYSLI+I-II+c%CC%8Cesky.epub" target="_blank">
+                  ePub
+              </a>
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVY+MYSLI+I-II+c%CC%8Cesky.odt" target="_blank">
+                  odt (Open Document format)
+              </a>
+          </div>
       </div>
     </div>
   </div>
   <div class="item">
-    <a class="ui small image" target="_blank"
-      href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-czech.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book1-czech.jpg">
-    </a>
+    <img class="ui small image" src="/t/ftcm/public/img/ftcm/Slovak.jpg">
     <div class="content">
-      <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book1-czech.pdf" target="_blank">
-        <em>From the Christ Mind Book I</em>
-      </a>
-      <div class="meta">
-        <p>Czech Translation</p>
-        <p>Klikněte na obálku knihy pro stažení Knihy I v češtině.</p>
+      <div class="header">slovenský preklad</div>
+      <div class="description">
+         <div>
+            <p>
+               Ivan translated it into Slovak.<br/>
+               Ivan preložil do slovenčiny.
+            </p>
+            <p>
+                Dostupné v nasledujúcich formátoch. Pre čítanie v mobile formát
+                ePub si stiahnite aplikáciu ReadEra.
+            </p>
+         </div>
+          <div class="ui bulleted list">
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVEJ+MYSLE+I-II+slovensky.pdf" target="_blank">
+                  PDF
+              </a>
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVEJ+MYSLE+I-II+slovensky.epub" target="_blank">
+                  ePub
+              </a>
+              <a class="item" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/Z+KRISTOVEJ+MYSLE+I-II+slovensky.odt" target="_blank">
+                  odt (Open Document format)
+              </a>
+          </div>
+      </div>
       </div>
     </div>
   </div>
-</div>
-
-<hr/>
-
-<div class="ui items">
-  <div class="item">
-    <a class="ui small image" target="_blank"
-      href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book2-slovak.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book2-slovak.jpg">
-    </a>
-    <div class="content">
-      <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book2-slovak.pdf" target="_blank">
-        <em>From the Christ Mind Book II</em>
-      </a>
-      <div class="meta">
-        <p>Slovak Translation</p>
-        <p>Kliknite na obálku knihy a stiahnite si druhú knihu v
-        slovenčine.</p>
-      </div>
-    </div>
-  </div>
-  <div class="item">
-    <a class="ui small image" target="_blank"
-      href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book2-czech2.pdf">
-      <img src="/t/ftcm/public/img/ftcm/book2-czech.jpg">
-    </a>
-    <div class="content">
-      <a class="header" href="https://s3.us-east-1.amazonaws.com/assets.christmind.info/ftcm/content/ftcm-book2-czech2.pdf" target="_blank">
-        <em>From the Christ Mind Book II</em>
-      </a>
-      <div class="meta">
-        <p>Czech Translation</p>
-        <p>Klikněte na obálku knihy pro stažení druhé knihy v češtině.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-
